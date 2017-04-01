@@ -139,7 +139,7 @@
           "_name": "msg-box7",
           "_anchor": "msg-box7-1",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "62",
             "paddingTop": "6",
             "paddingBottom": "6",
             "parallax": true,
@@ -157,7 +157,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": true
+            "showButtons": false
           },
           "media": {
             "image": {
