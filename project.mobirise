@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 27,
+    "uniqCompNum": 30,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -293,6 +293,176 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "B": {
+              "color": "#b8312f",
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-r",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "O RETORNO DA DOAÇÃO É GARANTIDO?",
+          "meta": "<b><br></b><br><b>NÃO.</b>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_anchor": "content1-s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<p>A única garantia que temos é que doaremos uma certa quantia para algum amigo que necessita. O retorno e garantia da ação que é também receber ajuda dos amigos da rede é trabalharmos em união, comprometimento, e lealdade Se assim for, com certeza é garantido..</p><p><br></p><p>Nós se unimos para isso, então se você esta comprometido a fazer a diferença junto conosco, vem com a gente.</p><p><br></p><p>Veja o que é possível você fazer com as doações que iráreceber:</p><p><br></p>"
+        },
+        {
+          "_styles": {
+            ".card-subtitle": {
+              "color": "#bcbcbc"
+            },
+            ".iconbox": {
+              "background-color": "#f2f2f2",
+              "border-color": "#f2f2f2"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "features4",
+          "_anchor": "features4-t",
+          "_params": {
+            "iconsBgColor": "#f2f2f2",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "columns": "5",
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": false,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "users",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title1": "AJUDA NO ALUGUEL",
+          "subtitle1": "Bootstrap 4 has been noted",
+          "caption1": "Uma coisa é certa, temos nossos deveres como cidadãos, temos que pagar os impostos que por sinal grandiosos demais... As doações que por ventura possam ser recebvidas é para isso mesmo, ajudar a &nbsp;arcar com suas diversas despesas mensais..",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "cart-full",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title2": "AJUDA NAS COMPRAS",
+          "subtitle2": "One of Bootstrap 4's big points",
+          "caption2": "Quão bom é para um pai ou mãe, chegar no fim do mês com o tão suado dinheirinho no bolso, dinheiro este que servirá para alimentar sua família, melhorar suas vidas em todos os sentidos trazendo melhor qualidade de vida... <br>As doações te ajudarão.",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "pencil",
+              "family": "et-line",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title3": "AJUDA NA EDUCAÇÃO",
+          "subtitle3": "Google has a highly exhaustive list of fonts",
+          "caption3": "A educação deve ser uma preocupação muito grande aos pais quando se refere ao futuro crescimento de seus filhos, preparandoos para a vida adulta... Todos sabemos o quanto uma pessoa carece de direitos quando se tira o seus direitos... Use as doações para esta finalidade.",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "linkInNewWindow": false,
+              "name": "credit-card",
+              "family": "MobiriseIcons",
+              "active": true,
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black"
+            }
+          },
+          "title4": "PAGAR DÍVIDAS",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "A cada situação complicada que somos expostos frequentemente, só quem sentiu isso na pele pode afirmar, quando você tem uma dívida impagável é muito constrangedor... Utilize parte das doações para custear estas dívidas. Libertese não seja escravo.",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media5": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title5": "REALIZAR SONHOS",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "A vida é tão passageira, não deixe a cobiça, paixões, ganâncias, te cegarem do que é mais importante. Seja fiel Deus irá te abençoar em tudo. Utilize partes das doações para cuidar bem da sua família, realize os seus e os sonhos deles. <br>Sejam felizes.",
+          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media6": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "black",
+              "family": "et-line"
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
             }
           },
           "_tags": [
@@ -306,7 +476,7 @@
             "bgColor": "#f7da64",
             "showMeta": false
           },
-          "title": "Junte-se a nós... E simples!",
+          "title": "Junte-se a nós... É simples!",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
@@ -759,7 +929,7 @@
             "showText": false,
             "showButton": false
           },
-          "title": "DOE 10,00 REAIS E GANHE + DE 2 MIL",
+          "title": "DOE 10,00 REAIS E GANHE + DE 2 MIL<br><br>COM O PODER DA AJÚDUA MÚTUA...",
           "text": "<p>Mobirise has provided for website developers a growing library of modern blocks which can be used either partially or in full for every website developed through the builder.</p>",
           "button": "<a data-app-btn=\"true\" class=\"btn btn-secondary\" href=\"https://mobirise.com\">SEE ALL TEMPLATES</a>"
         },

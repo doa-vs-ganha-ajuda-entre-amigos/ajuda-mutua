@@ -484,6 +484,21 @@ h6,
   text-align: center;
   font-family: 'Lora', serif;
 }
+#header3-r .mbr-section-title,
+#header3-r .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-r B {
+  color: #b8312f;
+  font-size: 30px;
+}
+#features4-t .card-subtitle {
+  color: #bcbcbc;
+}
+#features4-t .iconbox {
+  background-color: #f2f2f2;
+  border-color: #f2f2f2;
+}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
