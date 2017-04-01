@@ -5,11 +5,6 @@
 
 
 
-
-
-
-
-
 body,
 input,
 textarea,
@@ -485,29 +480,9 @@ h6,
 #msg-box7-1 .lead p {
   color: #fff;
 }
-#msg-box5-2 P {
-  font-size: 25px;
+#features3-i P {
+  text-align: center;
   font-family: 'Lora', serif;
-}
-#msg-box5-4 P {
-  font-size: 25px;
-  font-family: 'Lora', serif;
-}
-#msg-box5-5 P {
-  font-family: 'Lora', serif;
-  font-size: 25px;
-}
-#msg-box5-6 P {
-  font-family: 'Lora', serif;
-  font-size: 25px;
-}
-#msg-box5-7 P {
-  font-family: 'Lora', serif;
-  font-size: 24px;
-}
-#msg-box5-8 P {
-  font-family: 'Lora', serif;
-  font-size: 24px;
 }
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
@@ -521,6 +496,13 @@ h6,
 }
 #testimonials1-a .card-footer > small {
   color: #f7da64;
+}
+#testimonials1-j .mbr-section-subtitle {
+  color: #b8312f;
+  font-size: 20px;
+}
+#testimonials1-j .card-footer > small {
+  color: #000000;
 }
 #msg-box3-g .mbr-section-title,
 #msg-box3-g p {
