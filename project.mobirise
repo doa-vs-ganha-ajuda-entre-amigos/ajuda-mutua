@@ -11,7 +11,7 @@
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
         "warningColor": "#f3c649",
-        "dangerColor": "#f28281",
+        "dangerColor": "#b8312f",
         "titleFont": "Montserrat",
         "subtitleFont": "Lora",
         "textFont": "Raleway",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 20,
+    "uniqCompNum": 27,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box5-2\">COMO FUNCIONA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -303,11 +303,81 @@
           "_params": {
             "paddingTop": "2",
             "paddingBottom": "2",
-            "bgColor": "#fff",
+            "bgColor": "#f7da64",
             "showMeta": false
           },
           "title": "Junte-se a nós... E simples!",
           "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-l",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "O que é Ajuda Mútua?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Como o nome informa, é um sistema de ajuda entre membros, os quais são beneficiados com doações entre eles próprios, não cabendo qualquer tipo de investimento.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Basicamente o membro faz uma doação de livre e espontânea vontade, sem direito a qualquer tipo de retorno, por isso é uma doação.</span></p></blockquote><blockquote>No entanto como o membro faz parte de uma rede de doações é bem provável que ele próprio também venha a receber, isto é se a rede se expandir, o que não existe é uma garantia.</blockquote>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-p",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Ajuda Mútua é Crime?",
+          "meta": "O que diz a Lei Nº 1521 de 26/12/1951 Art. 1º e 2º parágrafo IX?"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-q",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<br><blockquote><p>A lei que rege o Crime Contra a Economia Popular é muito antiga, é do dia 26 de dezembro de 1951, mas que ainda está em vigor até hoje.</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Será que a Ajuda Mutua é crime conforme a lei que é muito divulgada por alguns sites que é a Lei Nº 1521 de 26/12/1951 Art. 1º e 2º parágrafo IX que diz o texto:</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>IX – obter ou tentar obter ganhos ilícitos em detrimento do povo ou de número indeterminado de pessoas mediante especulações ou processos fraudulentos (“bola de neve”, “cadeias”, “pichardismo” e quaisquer outros equivalentes);</b></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Em primeiro lugar temos de admitir, naquela época não havia sequer internet, já por isso essa lei podia não ter qualquer efeito, mesmo assim podemos facilmente chegar à conclusão que ninguém é obrigado a efetuar a doação e ninguém garante receber absolutamente nada.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Por isso, se não houver fraude no sistema, como por exemplo várias contas de doações do mesmo titular (no caso de doações políticas), alteração da rede de cadastros e demais situações que de alguma forma não sejam transparentes eu não vejo aqui ninguém ganhando de forma ilícita mediante especulações ou processos fraudulentos.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Qualquer pessoa pode pedir uma doação, os políticos fazem isso, as igrejas o fazem, várias empresas tomam iniciativas do género, não existe crime quanto a isso.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">É pior pagar por um seguro contra incêndio que provavelmente você nunca vai usar e a empresa vai ganhar às suas custas do que a ajuda mútua.</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -643,8 +713,8 @@
             "showName": true,
             "showBio": true
           },
-          "title": "CONHEÇA ALGUNS ADMINISTRADORES",
-          "subtitle": "DO GRUPO DOA VS GANHA.",
+          "title": "CONVERSE COM ALGUM ADMINISTRADOR",
+          "subtitle": "ALGUNS ADMIN. DO GRUPO DOA VS GANHA.",
           "_styles": {
             ".mbr-section-subtitle": {
               "color": "#b8312f",
