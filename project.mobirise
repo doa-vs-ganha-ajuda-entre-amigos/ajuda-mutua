@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 17,
+    "uniqCompNum": 18,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box5-2\">COMO FUNCIONA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-success-outline btn-success\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box5-2\">COMO FUNCIONA</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -189,7 +189,7 @@
           "_anchor": "msg-box5-2",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -249,7 +249,7 @@
           "_anchor": "msg-box5-4",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -309,7 +309,7 @@
           "_anchor": "msg-box5-5",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -369,7 +369,7 @@
           "_anchor": "msg-box5-6",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -429,7 +429,7 @@
           "_anchor": "msg-box5-7",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -489,7 +489,7 @@
           "_anchor": "msg-box5-8",
           "_params": {
             "imageSize": "60",
-            "paddingTop": "3",
+            "paddingTop": "1",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
@@ -540,6 +540,26 @@
               "font-size": "24px"
             }
           }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-h",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "Junte-se a nós... E simples!",
+          "meta": "By John Smith posted July 20, 2016"
         },
         {
           "_tags": [
@@ -799,7 +819,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#e1f5ff",
+            "bgColor": "#e25041",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -813,17 +833,18 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>",
           "text": "Enquanto houver vontade de lutar haverá esperança de vencer.",
           "title": "NÃO FIQUE DE FORA.<br>",
           "_styles": {
             "H2": {
               "text-align": "center",
-              "color": "#b8312f",
+              "color": "#ffffff",
               "font-size": "20px"
             },
             "H3": {
-              "text-align": "center"
+              "text-align": "center",
+              "color": "#2d2d2d"
             },
             ".btn": {
               "font-size": "20px"
@@ -843,8 +864,8 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-d",
           "_params": {
-            "paddingTop": 3,
-            "paddingBottom": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/13433255_1742554652689583_92877556630428546_o-2000x888.jpg",

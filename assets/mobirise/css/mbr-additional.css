@@ -509,6 +509,10 @@ h6,
   font-family: 'Lora', serif;
   font-size: 24px;
 }
+#header3-h .mbr-section-title,
+#header3-h .mbr-section-subtitle {
+  text-align: center;
+}
 #testimonials1-a .mbr-section-title {
   color: #ffffff;
 }
@@ -527,11 +531,12 @@ h6,
 }
 #msg-box1-b H2 {
   text-align: center;
-  color: #b8312f;
+  color: #ffffff;
   font-size: 20px;
 }
 #msg-box1-b H3 {
   text-align: center;
+  color: #2d2d2d;
 }
 #msg-box1-b .btn {
   font-size: 20px;
