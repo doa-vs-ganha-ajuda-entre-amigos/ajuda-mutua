@@ -518,6 +518,13 @@ h6,
 #testimonials1-a .card-footer > small {
   color: #f7da64;
 }
+#msg-box3-g .mbr-section-title,
+#msg-box3-g p {
+  color: #000;
+}
+#msg-box3-g .mbr-section-title {
+  font-size: 36px;
+}
 #msg-box1-b H2 {
   text-align: center;
   color: #b8312f;
