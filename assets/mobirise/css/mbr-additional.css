@@ -508,6 +508,9 @@ h6,
   background-color: #f2f2f2;
   border-color: #f2f2f2;
 }
+#msg-box5-u .btn {
+  font-size: 25px;
+}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
@@ -557,7 +560,7 @@ h6,
   color: #2d2d2d;
 }
 #msg-box1-b .btn {
-  font-size: 20px;
+  font-size: 25px;
 }
 #social-buttons4-d .mbr-section-title,
 #social-buttons4-d .btn-social {

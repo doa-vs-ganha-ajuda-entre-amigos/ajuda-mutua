@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "seja-bem-vindo",
+    "currentPage": "inicio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_inherit": "msg-box5",
@@ -244,7 +244,7 @@
           },
           "title": "VAMOS TE DAR UMA AJUDINHA",
           "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber os 2.200 reais certo?<br>Isso mesmo você vai completar com apenas 1 real apenas... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>"
         },
         {
           "_tags": [
@@ -544,7 +544,12 @@
           },
           "title": "COMO RECEBEREI MINHAS DOAÇÕES?",
           "text": "As doações serão depositadas diretamente para os beneficiados, utilizaremos um APLICATIVO voltado para este fim, onde é possivel efetuar transações em questão de segundos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;QUERO PARTICIPAR &nbsp; &nbsp;&nbsp;</a>",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_styles": {
@@ -1036,7 +1041,7 @@
               "color": "#2d2d2d"
             },
             ".btn": {
-              "font-size": "20px"
+              "font-size": "25px"
             }
           },
           "_anchor": "msg-box1-b",
@@ -1060,7 +1065,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;QUERO PARTICIPAR &nbsp;&nbsp;</a>",
           "text": "Enquanto houver vontade de lutar haverá esperança de vencer.",
           "title": "NÃO FIQUE DE FORA.<br>"
         },
@@ -1215,7 +1220,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1395,7 +1400,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1575,7 +1580,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"https://mobirise.com/\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
