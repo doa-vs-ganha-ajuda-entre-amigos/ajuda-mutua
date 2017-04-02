@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 71,
+    "uniqCompNum": 72,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -124,7 +124,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
         },
         {
           "_inherit": "header1",
@@ -352,8 +352,8 @@
           "_name": "header3",
           "_anchor": "header3-1r",
           "_params": {
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "paddingTop": "4",
+            "paddingBottom": "0",
             "bgColor": "#fff",
             "showMeta": false
           },
@@ -469,7 +469,7 @@
           "_anchor": "features4-t",
           "_params": {
             "iconsBgColor": "#f2f2f2",
-            "paddingTop": 2,
+            "paddingTop": "1",
             "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
@@ -641,11 +641,14 @@
             }
           },
           "title": "COMO RECEBEREI MINHAS DOAÇÕES?",
-          "text": "As doações serão depositadas diretamente para os beneficiados, utilizaremos um APLICATIVO voltado para este fim, onde é possivel efetuar transações em questão de segundos.",
+          "text": "As doações serão depositadas diretamente para os beneficiados, utilizaremos um APLICATIVO voltado para este fim, onde é possivel efetuar transações a outros usuários em questão de segundos.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;QUERO PARTICIPAR &nbsp; &nbsp;&nbsp;</a>",
           "_styles": {
             ".btn": {
               "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
             }
           }
         },
@@ -958,7 +961,8 @@
               "font-size": "20px"
             },
             ".card-footer > small": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "16px"
             },
             ".card-block P": {
               "font-size": "20px",
@@ -971,7 +975,7 @@
           },
           "testimonial": [
             {
-              "text": "<p>“A vida tem muitos obstaculos, uma arma pode derrota-las facilmente... A UNIAO! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Em tempos de crise a união faz a força.”</p>",
+              "text": "<p>“A vida tem muitos obstáculos, uma arma pode derrotá-las facilmente... A UNIÃO! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Em tempos de crise ou não a união sempre faz a força.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/jdl-160x149.png",
@@ -989,7 +993,7 @@
               "authorBio": "Administrador<br><a href=\"https://www.facebook.com/jldjackson\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
             },
             {
-              "text": "<p>“Não é justo pedir aos outros o que você mesmo não está disposto a fazer, realize seu sonho. Eu não posso realizar por você...”</p>",
+              "text": "<p>“Vamos a luta todos... Não é justo pedir aos outros o que você mesmo não está disposto a fazer, realize seus sonhos. Eu não posso realizar por você...”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/marcio-160x143.png",
@@ -1007,7 +1011,7 @@
               "authorBio": "Administrador<br><a href=\"https://www.facebook.com/marciosantos.santos.777\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
             },
             {
-              "text": "<p>&nbsp; &nbsp; “Unidos venceresmos... Esse é nosso lema. Até seres irracionais se unem...&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">A união do rebanho obriga o leão a deitar-se com fome..”</span></p>",
+              "text": "<p>&nbsp; &nbsp; “Unidos venceremos... Esse é nosso lema de guerra. Até mesmo seres irracionais se unem...&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">A união do rebanho obriga o leão a deitar-se com fome...”</span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/12033017-413263832218172-2973994849528474707-n-160x160.jpg",
@@ -1054,7 +1058,7 @@
           "_name": "testimonials2",
           "testimonial": [
             {
-              "text": "<p>“A crise esta instaurada em nosso País todos sabemos, ondas gigantescas de desemprego, os impostos crescendo frequentemente, opções para empreender cada vez mais limitadas, uma coisa é certa. </p><p>A união de um povo que luta pelos mesmos objetivos, se organizados lutarem sem desanimar nas dificuldades, estes sim farão a diferença seja em tempos de crise ou não... </p><p>Nosso Grupo de Ajuda Mútua entre Amigos nasceu justamente para isso.”</p><p>Junte-se a nós...</p>",
+              "text": "<p>“A crise instaurou-se em nosso País todos sabemos, ondas gigantescas de desemprego, os impostos crescendo frequentemente, opções para empreender cada vez mais limitadas, uma coisa é certa. </p><p>A união de um povo que luta pelos mesmos objetivos, se organizados lutarem sem desanimar nas dificuldades, </p><p>estes sim farão a diferença seja em tempos de crise ou não...&nbsp;<span style=\"line-height: 2;\">Nosso Grupo de Ajuda Mútua entre Amigos nasceu justamente para isso.”&nbsp;</span><span style=\"line-height: 2;\">Junte-se a nós e faça a diferença também...</span></p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/aa-perfil-160x155.png",
@@ -1095,7 +1099,8 @@
           "subtitle": "Shape your future web project with sharp design and refine coded functions.",
           "_styles": {
             ".card-footer > small": {
-              "color": "#000000"
+              "color": "#000000",
+              "font-size": "16px"
             },
             ".card-block P": {
               "font-size": "20px"
@@ -1188,6 +1193,37 @@
           "title": "NÃO FIQUE DE FORA.<br>"
         },
         {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-1z",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/fundo-2000x1125.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "COMPARTILHE"
+        },
+        {
           "_inherit": "social-buttons2",
           "_styles": {
             ".mbr-section-title, .btn-social": {
@@ -1203,18 +1239,18 @@
           "_name": "social-buttons4",
           "_anchor": "social-buttons4-d",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingTop": "1",
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/13433255_1742554652689583_92877556630428546_o-2000x888.jpg",
-            "bgColor": "#2e2e2e",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222"
           },
-          "text": "COMPARTILHE",
+          "text": "SIGA-NOS",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"LL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"&lt;a href=&quot;http://facebook.com/share.php?u=&lt;?php the_permalink() ?&gt;&amp;amp;t=&lt;?php echo urlencode(the_title('','', false)) ?&gt;&quot; target=&quot;_blank&quot; title=&quot;Compartilhar &lt;?php the_title();?&gt; no Facebook&quot;&gt;Facebook&lt;/a&gt;\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"LL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"LL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"LL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-instagram\"></i></a>   <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"LL\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
         },
         {
@@ -1224,7 +1260,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "footer1-e",
@@ -1234,7 +1271,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1338,7 +1375,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1347,7 +1384,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "footer1-w",
@@ -1357,7 +1395,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1518,7 +1556,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1527,7 +1565,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "footer1-11",
@@ -1537,7 +1576,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
@@ -1698,7 +1737,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1707,7 +1746,8 @@
           "_name": "footer1",
           "_styles": {
             "P": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "16px"
             }
           },
           "_anchor": "footer1-1o",
@@ -1717,7 +1757,7 @@
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "overlay": true,
             "overlayOpacity": 0.8,
