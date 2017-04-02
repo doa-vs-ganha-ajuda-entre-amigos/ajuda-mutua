@@ -174,6 +174,9 @@
             "SMALL": {
               "color": "#b8312f",
               "font-size": "25px"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -187,7 +190,7 @@
             "bgColor": "#f7da64",
             "showMeta": true
           },
-          "title": "SOMOS UM SISTEMA<br> <br>DE AJUDA ENTRE AMIGOS<br><br>6 CICLOS/FASES PARA DOAÇÃO<br><br>INICIA DOANDO APENAS 10 REAIS<br><br>RECEBE NO FINAL FASE 6 <br><br>MAIS DE 2 MIL REAIS<br><br>QUER 9 REAIS DE PRESENTE PARA INICIAR?",
+          "title": "SOMOS GRUPO EM UM SISTEMA<br> <br>DE AJUDA MÚTUA ENTRE AMIGOS<br><br>6 CICLOS/FASES PARA DOAÇÃO<br><br>INICIA DOANDO APENAS 10 REAIS<br><br>RECEBE NO FINAL FASE 6 <br><br>MAIS DE 2 MIL REAIS<br><br>QUER 9 REAIS DE PRESENTE PARA INICIAR?",
           "meta": "<br>LEIA AS INFORMAÇÕES ATENTAMENTE"
         },
         {
@@ -642,13 +645,16 @@
           },
           "title": "COMO RECEBEREI MINHAS DOAÇÕES?",
           "text": "As doações serão depositadas diretamente para os beneficiados, utilizaremos um APLICATIVO voltado para este fim, onde é possivel efetuar transações a outros usuários em questão de segundos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp; &nbsp;QUERO PARTICIPAR &nbsp; &nbsp;&nbsp;</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>",
           "_styles": {
             ".btn": {
               "font-size": "25px"
             },
             "P": {
               "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           }
         },
@@ -676,6 +682,9 @@
           "_styles": {
             ".mbr-section-title, .mbr-section-subtitle": {
               "text-align": "center"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -713,6 +722,9 @@
             "SMALL": {
               "color": "#b8312f",
               "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -749,7 +761,8 @@
           "_name": "testimonials1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
             },
             ".card-footer > div": {
               "color": "#ffffff"
@@ -1188,7 +1201,7 @@
             "showText": true,
             "showTitle": true
           },
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">&nbsp; &nbsp;QUERO PARTICIPAR &nbsp;&nbsp;</a>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>",
           "text": "Enquanto houver vontade de lutar haverá esperança de vencer.",
           "title": "NÃO FIQUE DE FORA.<br>"
         },
@@ -1197,6 +1210,9 @@
           "_styles": {
             ".mbr-section-title, .btn-social": {
               "color": "#fff"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "_tags": [
@@ -1261,7 +1277,7 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-e",
@@ -1385,7 +1401,7 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-w",
@@ -1566,7 +1582,7 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-11",
@@ -1747,7 +1763,7 @@
           "_styles": {
             "P": {
               "color": "#ffffff",
-              "font-size": "16px"
+              "font-size": "14px"
             }
           },
           "_anchor": "footer1-1o",

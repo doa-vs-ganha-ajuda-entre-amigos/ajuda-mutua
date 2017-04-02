@@ -490,6 +490,9 @@ h6,
   color: #b8312f;
   font-size: 25px;
 }
+#header3-12 H3 {
+  font-size: 36px;
+}
 #header5-z .mbr-section-title {
   color: #b8312f;
   font-size: 48px;
@@ -532,6 +535,9 @@ h6,
 #msg-box5-u P {
   font-size: 20px;
 }
+#msg-box5-u H3 {
+  font-size: 36px;
+}
 #header3-h .mbr-section-title,
 #header3-h .mbr-section-subtitle {
   text-align: center;
@@ -539,6 +545,9 @@ h6,
 #header3-l .mbr-section-title,
 #header3-l .mbr-section-subtitle {
   text-align: center;
+}
+#header3-l H3 {
+  font-size: 36px;
 }
 #header3-p .mbr-section-title,
 #header3-p .mbr-section-subtitle {
@@ -548,8 +557,12 @@ h6,
   color: #b8312f;
   font-size: 20px;
 }
+#header3-p H3 {
+  font-size: 36px;
+}
 #testimonials1-a .mbr-section-title {
   color: #ffffff;
+  font-size: 36px;
 }
 #testimonials1-a .card-footer > div {
   color: #ffffff;
@@ -606,6 +619,9 @@ h6,
 #social-buttons3-1z .btn-social {
   color: #fff;
 }
+#social-buttons3-1z .mbr-section-title {
+  font-size: 36px;
+}
 #social-buttons4-d .mbr-section-title,
 #social-buttons4-d .btn-social {
   color: #fff;
@@ -615,7 +631,7 @@ h6,
 }
 #footer1-e P {
   color: #ffffff;
-  font-size: 16px;
+  font-size: 14px;
 }
 #ext_menu-v .hide-buttons .nav-btn {
   display: none !important;
@@ -683,7 +699,7 @@ h6,
 }
 #footer1-w P {
   color: #ffffff;
-  font-size: 16px;
+  font-size: 14px;
 }
 #header6-x .mbr-section-title {
   color: #28262b;
@@ -757,7 +773,7 @@ h6,
 }
 #footer1-11 P {
   color: #ffffff;
-  font-size: 16px;
+  font-size: 14px;
 }
 #header3-1l .mbr-section-title,
 #header3-1l .mbr-section-subtitle {
@@ -837,7 +853,7 @@ h6,
 }
 #footer1-1o P {
   color: #ffffff;
-  font-size: 16px;
+  font-size: 14px;
 }
 #msg-box4-1p .btn {
   font-size: 25px;
