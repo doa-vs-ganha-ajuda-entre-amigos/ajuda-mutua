@@ -717,6 +717,10 @@ h6,
   color: #ffffff;
   font-size: 60px;
 }
+#header3-1q .mbr-section-title,
+#header3-1q .mbr-section-subtitle {
+  text-align: center;
+}
 #ext_menu-1n .hide-buttons .nav-btn {
   display: none !important;
 }
