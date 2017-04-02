@@ -984,6 +984,9 @@
             },
             ".card-footer > div": {
               "font-size": "25px"
+            },
+            ".mbr-section-title": {
+              "font-size": "36px"
             }
           },
           "testimonial": [
@@ -1052,16 +1055,16 @@
             "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/fundo-2000x1250.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1333.jpg",
             "bgColor": "#ffffff",
             "bgColorRadio": true,
-            "overlay": true,
+            "overlay": false,
             "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "showTitle": true,
             "showSubtitle": false
           },
-          "title": "CONVERSE COM ALGUM ADMINISTRADOR",
+          "title": "CONHEÇA ALGUNS USUÁRIOS ADMINISTRADORES",
           "subtitle": "ALGUNS ADMIN. DO GRUPO DOA VS GANHA."
         },
         {
