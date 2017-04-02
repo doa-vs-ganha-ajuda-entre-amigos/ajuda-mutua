@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "baixar-aplicativo",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1266,7 +1266,7 @@
           "_name": "header6",
           "_anchor": "header6-x",
           "_params": {
-            "imageSize": "59",
+            "imageSize": "62",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1283,7 +1283,7 @@
             "showTitle": true,
             "showText": true,
             "showButtons": true,
-            "showArrow": true
+            "showArrow": false
           },
           "media": {
             "image": {
