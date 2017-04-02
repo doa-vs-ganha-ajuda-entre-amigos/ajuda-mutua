@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 38,
+    "uniqCompNum": 39,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -182,14 +182,40 @@
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-12",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#f7da64",
+            "showMeta": true
+          },
+          "title": "QUER 9 REAIS DE PRESENTE?",
+          "meta": "LEIA AS INFORMAÇÕES ATENTAMENTE"
+        },
+        {
           "_inherit": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#000",
-              "font-size": "48px"
+              "color": "#b8312f",
+              "font-size": "48px",
+              "text-align": "left"
             },
             ".mbr-section-lead": {
-              "color": "#9c9a9a"
+              "color": "#000000",
+              "font-size": "30px",
+              "text-align": "left"
             }
           },
           "_tags": [
@@ -217,14 +243,21 @@
             "showButtons": true
           },
           "title": "VAMOS TE DAR UMA AJUDINHA",
-          "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 6 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber os 2.200 reais certo? Faça seu cadastro no botão abaixo ou continue a leitura.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>"
+          "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber os 2.200 reais certo?<br>Isso mesmo você vai completar com apenas 1 real apenas... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">QUERO PARTICIPAR</a>"
         },
         {
           "_tags": [
             "Theme"
           ],
           "_name": "features3",
+          "_styles": {
+            "P": {
+              "text-align": "center",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
+            }
+          },
           "_anchor": "features3-i",
           "_params": {
             "paddingTop": 2,
@@ -319,51 +352,7 @@
           "title6": "Fase 6",
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Doa R$ 456,25<br>Ganha R$ 2.281,25<br>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_styles": {
-            "P": {
-              "text-align": "center",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          }
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            "B": {
-              "color": "#b8312f",
-              "font-size": "30px"
-            }
-          },
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-r",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff",
-            "showMeta": true
-          },
-          "title": "O RETORNO DA DOAÇÃO É GARANTIDO?",
-          "meta": "<b><br></b><br><b>NÃO.</b>"
-        },
-        {
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "content1",
-          "_anchor": "content1-s",
-          "_params": {
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#fff"
-          },
-          "text": "<p>A única garantia que temos é que doaremos uma certa quantia para algum amigo que necessita. O retorno e garantia da ação que é também receber ajuda dos amigos da rede é trabalharmos em união, comprometimento, e lealdade Se assim for, com certeza é garantido..</p><p><br></p><p>Nós se unimos para isso, então se você esta comprometido a fazer a diferença junto conosco, vem com a gente.</p><p><br></p><p>Veja o que é possível você fazer com as doações que irá receber:</p><p><br></p>"
+          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
         },
         {
           "_styles": {
@@ -860,6 +849,15 @@
             "Theme"
           ],
           "_name": "testimonials1",
+          "_styles": {
+            ".mbr-section-subtitle": {
+              "color": "#b8312f",
+              "font-size": "20px"
+            },
+            ".card-footer > small": {
+              "color": "#000000"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“Em tempos de crise a união faz a força... Junte-se a nós.”</p>",
@@ -966,6 +964,10 @@
           "_params": {
             "paddingTop": 3,
             "paddingBottom": 3,
+            "count": "6",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": true,
             "parallax": true,
             "bgImage": "@PROJECT_PATH@/assets/images/fundo-2000x1250.jpg",
@@ -975,23 +977,10 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "showTitle": true,
-            "showSubtitle": true,
-            "count": "6",
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": true
           },
           "title": "CONVERSE COM ALGUM ADMINISTRADOR",
-          "subtitle": "ALGUNS ADMIN. DO GRUPO DOA VS GANHA.",
-          "_styles": {
-            ".mbr-section-subtitle": {
-              "color": "#b8312f",
-              "font-size": "20px"
-            },
-            ".card-footer > small": {
-              "color": "#000000"
-            }
-          }
+          "subtitle": "ALGUNS ADMIN. DO GRUPO DOA VS GANHA."
         },
         {
           "_inherit": "msg-box8",

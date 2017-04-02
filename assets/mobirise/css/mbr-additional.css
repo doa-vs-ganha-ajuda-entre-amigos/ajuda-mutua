@@ -480,24 +480,26 @@ h6,
 #msg-box7-1 .lead p {
   color: #fff;
 }
+#header3-12 .mbr-section-title,
+#header3-12 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-12 SMALL {
+  color: #b8312f;
+}
 #header5-z .mbr-section-title {
-  color: #000;
+  color: #b8312f;
   font-size: 48px;
+  text-align: left;
 }
 #header5-z .mbr-section-lead {
-  color: #9c9a9a;
+  color: #000000;
+  font-size: 30px;
+  text-align: left;
 }
 #features3-i P {
   text-align: center;
   font-family: 'Lora', serif;
-}
-#header3-r .mbr-section-title,
-#header3-r .mbr-section-subtitle {
-  text-align: center;
-}
-#header3-r B {
-  color: #b8312f;
-  font-size: 30px;
 }
 #features4-t .card-subtitle {
   color: #bcbcbc;
