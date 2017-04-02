@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 72,
+    "uniqCompNum": 73,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -188,10 +188,36 @@
             "paddingTop": "3",
             "paddingBottom": "3",
             "bgColor": "#f7da64",
+            "showMeta": false
+          },
+          "title": "SOMOS UM GRUPO EM UM SISTEMA<br> <br>DE AJUDA MÚTUA ENTRE AMIGOS<br><br>6 FASES PARA DOAÇÃO<br><br>EM FORMATO DE FILA ÚNICA<br><br>INICIA DOACÃO COM APENAS 10 REAIS<br><br>RECEBE NO FINAL FASE 6 <br><br>MAIS DE 2 MIL REAIS<br>",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#f7da64"
+            },
+            "SMALL": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-20",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#e25041",
             "showMeta": true
           },
-          "title": "SOMOS GRUPO EM UM SISTEMA<br> <br>DE AJUDA MÚTUA ENTRE AMIGOS<br><br>6 CICLOS/FASES PARA DOAÇÃO<br><br>INICIA DOANDO APENAS 10 REAIS<br><br>RECEBE NO FINAL FASE 6 <br><br>MAIS DE 2 MIL REAIS<br><br>QUER 9 REAIS DE PRESENTE PARA INICIAR?",
-          "meta": "<br>LEIA AS INFORMAÇÕES ATENTAMENTE"
+          "title": "VAMOS TE DAR UM PRESENTE.<br><br>QUER 9 REAIS PARA INICIAR?",
+          "meta": "<br>LEIA AS INFORMAÇÕES ATENTAMENTE<br>"
         },
         {
           "_inherit": "header1",
