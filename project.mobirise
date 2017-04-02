@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 69,
+    "uniqCompNum": 71,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -229,7 +229,7 @@
             "showButtons": true
           },
           "title": "VAMOS TE DAR UMA AJUDINHA",
-          "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber MAIS DE 2 MIL REAIS.<br>Isso mesmo você vai completar com apenas 1 real... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
+          "text": "<br>Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber MAIS DE 2 MIL REAIS.<br>Isso mesmo você vai completar com apenas 1 real... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>"
         },
         {
@@ -371,7 +371,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Serão 6 fases disponíveis para doação.</p><p>Inicalmente você &nbsp;irá doar 10,00 reais e entrara na fila na primeira fase, e ganhará uma doação superior a 2.200,00 reais ao finalizar a fase de número 6.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Iremos te ajudar com 9,00 reais para que você faça sua primeira doação (por tempo limintado), pois conseguiremos este valor apenas para testar um Aplicativo que você terá acesso em breve.</span></p><p><br></p><p>Basicamente seguirá estes passos:</p><p><br></p><p>1° &nbsp;Passo: Você se cadastra neste site: http://www.doaeganha.vai.la nos botões QUERO PARTICIPAR</p><p>2° Passo: Você irá passar por uma triagem de informações via Email e Site e Grupos Whatsapp</p><p>3° Passo: Baixar Aplicativo para efetuar transferências de valores de forma segura diretamente para os beneficiados</p><p>4° Passo: Doar para pessoa da vez, e entrar na lista de espera para receber doações também</p><p>5° Passo: Ajudar na divulgação do nosso grupo para que haja crescimento</p><p>6° Passo: Verificar e confirmar o recebimento das suas doações</p><p>7° Passo: Repetir o ciclo quantas vezes queira</p></blockquote>"
+          "text": "<blockquote><p>Serão 6 fases disponíveis para doação.</p><p>Inicalmente você &nbsp;irá doar 10,00 reais e entrara na fila na primeira fase, e ganhará uma doação superior a 2.200,00 reais ao finalizar a fase de número 6.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Iremos te ajudar com 9,00 reais para que você faça sua primeira doação (por tempo limitado), pois conseguiremos este valor apenas para testar um Aplicativo que você terá acesso em breve.</span></p><p><br></p><p>Basicamente seguirá estes passos:</p><p><br></p><p>1° &nbsp;Passo: Você se cadastra neste site: [ http://www.doaeganha.vai.la ] nos botões QUERO PARTICIPAR</p><p>2° Passo: Você irá passar por uma triagem de informações via Email e Site e Grupos Whatsapp</p><p>3° Passo: Baixar Aplicativo para efetuar transferências de valores de forma segura diretamente para os beneficiados</p><p>4° Passo: Doar 10 REAIS para pessoa da vez, e entrar na lista de espera para receber doações também</p><p>5° Passo: Ajudar na divulgação do nosso grupo para que haja crescimento</p><p>6° Passo: Verificar e confirmar o recebimento das suas doações</p><p>7° Passo: Repetir o ciclo quantas vezes queira</p></blockquote>"
         },
         {
           "_inherit": "msg-box5",
@@ -430,6 +430,30 @@
         },
         {
           "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#b8312f",
+              "font-size": "25px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1x",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "O QUE FAZER COM AS DOAÇÕES?",
+          "meta": "<br>DICAS DE COMO USAR SUAS DOAÇÕES RECEBIDAS"
+        },
+        {
+          "_styles": {
             ".card-subtitle": {
               "color": "#bcbcbc"
             },
@@ -446,7 +470,7 @@
           "_params": {
             "iconsBgColor": "#f2f2f2",
             "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingBottom": "1",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -479,7 +503,7 @@
               "newWindow": false
             }
           },
-          "title1": "AJUDA NO ALUGUEL",
+          "title1": "NO ALUGUEL",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "<p>Uma coisa é certa, temos nossos deveres como cidadãos, temos que pagar os impostos que por sinal grandiosos demais... As doações que você receber justamente&nbsp;para te ajudar a &nbsp;arcar com suas diversas despesas mensais, use as doações com sabedoria...</p>",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -496,7 +520,7 @@
               "newWindow": false
             }
           },
-          "title2": "AJUDA NAS COMPRAS",
+          "title2": "NAS COMPRAS",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "Quão bom é para um pai ou mãe, chegar no fim do mês com o tão suado dinheirinho no bolso, dinheiro este que servirá para alimentar sua família, melhorar suas vidas em todos os sentidos trazendo melhor qualidade de vida... <br>As doações te ajudarão.",
           "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -513,7 +537,7 @@
               "newWindow": false
             }
           },
-          "title3": "AJUDA NA EDUCAÇÃO",
+          "title3": "NA EDUCAÇÃO",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "A educação deve ser uma preocupação muito grande aos pais quando se refere ao futuro crescimento de seus filhos, preparando os para a vida adulta... Todos sabemos o quanto uma pessoa carece de direitos quando se tira o seus direitos... Use as doações para esta finalidade.",
           "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
@@ -575,8 +599,8 @@
           "_anchor": "msg-box5-u",
           "_params": {
             "imageSize": 50,
-            "paddingTop": 0,
-            "paddingBottom": 0,
+            "paddingTop": "2",
+            "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -713,7 +737,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<br><blockquote><p>A lei que rege o Crime Contra a Economia Popular é muito antiga, é do dia 26 de dezembro de 1951, mas que ainda está em vigor até hoje.</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Será que a Ajuda Mutua é crime conforme a lei que é muito divulgada por alguns sites que é a Lei Nº 1521 de 26/12/1951 Art. 1º e 2º parágrafo IX que diz o texto:</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>IX – obter ou tentar obter ganhos ilícitos em detrimento do povo ou de número indeterminado de pessoas mediante especulações ou processos fraudulentos (“bola de neve”, “cadeias”, “pichardismo” e quaisquer outros equivalentes);</b></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Em primeiro lugar temos de admitir, naquela época não havia sequer internet, já por isso essa lei podia não ter qualquer efeito, mesmo assim podemos facilmente chegar à conclusão que ninguém é obrigado a efetuar a doação e ninguém garante receber absolutamente nada.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Por isso, se não houver fraude no sistema, como por exemplo várias contas de doações do mesmo titular (no caso de doações políticas), alteração da rede de cadastros e demais situações que de alguma forma não sejam transparentes eu não vejo aqui ninguém ganhando de forma ilícita mediante especulações ou processos fraudulentos.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Qualquer pessoa pode pedir uma doação, os políticos fazem isso, as igrejas o fazem, várias empresas tomam iniciativas do género, não existe crime quanto a isso.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">É pior pagar por um seguro contra incêndio que provavelmente você nunca vai usar e a empresa vai ganhar às suas custas do que a ajuda mútua.</span></p></blockquote>"
+          "text": "<br><blockquote><p>A lei que rege o Crime Contra a Economia Popular é muito antiga, é do dia 26 de dezembro de 1951, mas que ainda está em vigor até hoje.</p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\">Será que a Ajuda Mutua é crime conforme a lei que é muito divulgada por alguns sites que é a Lei Nº 1521 de 26/12/1951 Art. 1º e 2º parágrafo IX que diz o texto:</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\"><b>IX – obter ou tentar obter ganhos ilícitos em detrimento do povo ou de número indeterminado de pessoas mediante especulações ou processos fraudulentos (“bola de neve”, “cadeias”, “pichardismo” e quaisquer outros equivalentes);</b></span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Em primeiro lugar temos de admitir, naquela época não havia sequer internet, já por isso essa lei podia não ter qualquer efeito, mesmo assim podemos facilmente chegar à conclusão que ninguém é obrigado a efetuar a doação e ninguém garante receber absolutamente nada.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Por isso, se não houver fraude no sistema, como por exemplo várias contas de doações do mesmo titular (no caso de doações políticas), alteração da rede de cadastros e demais situações que de alguma forma não sejam transparentes eu não vejo aqui ninguém ganhando de forma ilícita mediante especulações ou processos fraudulentos.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">Qualquer pessoa pode pedir uma doação, os políticos fazem isso, as igrejas o fazem, várias empresas tomam iniciativas do género, não existe crime quanto a isso.</span></p><p><span style=\"font-size: 1.09rem; line-height: 1.5;\"><br></span><span style=\"font-size: 1.09rem; line-height: 1.5;\">É pior pagar por um seguro contra incêndio que provavelmente você nunca vai usar e a empresa vai ganhar às suas custas do que a ajuda mútua aqui proposta pelo grupo.</span></p></blockquote>"
         },
         {
           "_tags": [
@@ -935,65 +959,19 @@
             },
             ".card-footer > small": {
               "color": "#000000"
+            },
+            ".card-block P": {
+              "font-size": "20px",
+              "color": "#000000",
+              "text-align": "center"
+            },
+            ".card-footer > div": {
+              "font-size": "25px"
             }
           },
           "testimonial": [
             {
-              "text": "<p>“Em tempos de crise a união faz a força... Junte-se a nós.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/aa-perfil-160x155.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": true
-                }
-              },
-              "authorName": "Robson Miguel.",
-              "authorBio": "Administrador<br><a href=\"http://www.fb.com/robsonmiiguel\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
-            },
-            {
-              "text": "<p>“First of all hands off to you guys for your effort and nice, super tool.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/marcio-160x143.png",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Marcio Santos.",
-              "authorBio": "Administrador<br><a href=\"https://www.facebook.com/marciosantos.santos.777\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
-            },
-            {
-              "text": "<p>“At first view, looks like a nice innovative tool. Regards.”</p>",
-              "media": {
-                "image": {
-                  "src": "@PROJECT_PATH@/assets/images/12033017-413263832218172-2973994849528474707-n-160x160.jpg",
-                  "class": "img-circle",
-                  "height": 160,
-                  "width": 160,
-                  "active": true,
-                  "link": "",
-                  "alt": "",
-                  "title": "",
-                  "linkInNewWindow": false
-                }
-              },
-              "authorName": "Humberto Luis.",
-              "authorBio": "Administrador<br><a href=\"https://www.facebook.com/humbertoluisdinho\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
-            },
-            {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit.”</p>",
+              "text": "<p>“A vida tem muitos obstaculos, uma arma pode derrota-las facilmente... A UNIAO! &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Em tempos de crise a união faz a força.”</p>",
               "media": {
                 "image": {
                   "src": "@PROJECT_PATH@/assets/images/jdl-160x149.png",
@@ -1001,49 +979,57 @@
                   "height": 160,
                   "width": 160,
                   "active": true,
-                  "link": "",
+                  "link": "https://www.facebook.com/jldjackson",
                   "alt": "",
                   "title": "",
-                  "linkInNewWindow": false
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "jackson Deon",
+              "authorName": "Jackson Deon",
               "authorBio": "Administrador<br><a href=\"https://www.facebook.com/jldjackson\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit.”</p>",
+              "text": "<p>“Não é justo pedir aos outros o que você mesmo não está disposto a fazer, realize seu sonho. Eu não posso realizar por você...”</p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/marcio-160x143.png",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "https://www.facebook.com/marciosantos.santos.777",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Marcio Santos.",
+              "authorBio": "Administrador<br><a href=\"https://www.facebook.com/marciosantos.santos.777\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
             },
             {
-              "text": "<p>“Lorem ipsum dolor sit amet, consectetur adipisicing elit.”</p>",
+              "text": "<p>&nbsp; &nbsp; “Unidos venceresmos... Esse é nosso lema. Até seres irracionais se unem...&nbsp;<span style=\"font-size: 1.125rem; line-height: 2;\">A união do rebanho obriga o leão a deitar-se com fome..”</span></p>",
               "media": {
                 "image": {
-                  "src": "@THEME_PATH@/components/_images/face2.jpg",
+                  "src": "@PROJECT_PATH@/assets/images/12033017-413263832218172-2973994849528474707-n-160x160.jpg",
                   "class": "img-circle",
                   "height": 160,
                   "width": 160,
-                  "active": true
+                  "active": true,
+                  "link": "https://www.facebook.com/humbertoluisdinho",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
                 }
               },
-              "authorName": "John Smith",
-              "authorBio": "Developer"
+              "authorName": "Humberto Luis.",
+              "authorBio": "Administrador<br><a href=\"https://www.facebook.com/humbertoluisdinho\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br>"
             }
           ],
           "_anchor": "testimonials1-j",
           "_params": {
             "paddingTop": 3,
-            "paddingBottom": 3,
-            "count": "6",
+            "paddingBottom": "1",
+            "count": "3",
             "showImages": true,
             "showName": true,
             "showBio": true,
@@ -1056,10 +1042,68 @@
             "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "showTitle": true,
-            "showSubtitle": true
+            "showSubtitle": false
           },
           "title": "CONVERSE COM ALGUM ADMINISTRADOR",
           "subtitle": "ALGUNS ADMIN. DO GRUPO DOA VS GANHA."
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials2",
+          "testimonial": [
+            {
+              "text": "<p>“A crise esta instaurada em nosso País todos sabemos, ondas gigantescas de desemprego, os impostos crescendo frequentemente, opções para empreender cada vez mais limitadas, uma coisa é certa. </p><p>A união de um povo que luta pelos mesmos objetivos, se organizados lutarem sem desanimar nas dificuldades, estes sim farão a diferença seja em tempos de crise ou não... </p><p>Nosso Grupo de Ajuda Mútua entre Amigos nasceu justamente para isso.”</p><p>Junte-se a nós...</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/aa-perfil-160x155.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "https://www.facebook.com/robsonmiiguel",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": true
+                }
+              },
+              "authorName": "Robson Miguel.",
+              "authorBio": "Administrador/Desenvolvedo Web<br><a href=\"https://www.facebook.com/robsonmiiguel\" target=\"_blank\" class=\"text-danger\">Ver Facebook</a><br><br>"
+            }
+          ],
+          "_anchor": "testimonials2-1y",
+          "_params": {
+            "count": "1",
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.2,
+            "overlayColor": "#222",
+            "showTitle": false,
+            "showSubtitle": false,
+            "showImages": true,
+            "showName": true,
+            "showBio": true
+          },
+          "title": "WHAT OUR FANTASTIC USERS SAY",
+          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000"
+            },
+            ".card-block P": {
+              "font-size": "20px"
+            },
+            ".card-footer > div": {
+              "font-size": "25px"
+            }
+          }
         },
         {
           "_inherit": "msg-box8",

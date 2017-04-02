@@ -511,6 +511,14 @@ h6,
 #msg-box4-1t H3 {
   color: #000000;
 }
+#header3-1x .mbr-section-title,
+#header3-1x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1x SMALL {
+  color: #b8312f;
+  font-size: 25px;
+}
 #features4-t .card-subtitle {
   color: #bcbcbc;
 }
@@ -552,6 +560,23 @@ h6,
 }
 #testimonials1-j .card-footer > small {
   color: #000000;
+}
+#testimonials1-j .card-block P {
+  font-size: 20px;
+  color: #000000;
+  text-align: center;
+}
+#testimonials1-j .card-footer > div {
+  font-size: 25px;
+}
+#testimonials2-1y .card-footer > small {
+  color: #000000;
+}
+#testimonials2-1y .card-block P {
+  font-size: 20px;
+}
+#testimonials2-1y .card-footer > div {
+  font-size: 25px;
 }
 #msg-box3-g .mbr-section-title,
 #msg-box3-g p {
