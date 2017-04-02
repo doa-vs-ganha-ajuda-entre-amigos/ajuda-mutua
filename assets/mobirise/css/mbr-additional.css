@@ -476,9 +476,11 @@ h6,
 #ext_menu-0 .btn {
   font-size: 15px;
 }
-#msg-box7-1 .mbr-section-title,
-#msg-box7-1 .lead p {
-  color: #fff;
+#header5-1w .mbr-section-title {
+  color: #ffffff;
+}
+#header5-1w .mbr-section-lead {
+  color: #f3c649;
 }
 #header3-12 .mbr-section-title,
 #header3-12 .mbr-section-subtitle {
@@ -486,6 +488,7 @@ h6,
 }
 #header3-12 SMALL {
   color: #b8312f;
+  font-size: 25px;
 }
 #header5-z .mbr-section-title {
   color: #b8312f;
@@ -500,6 +503,13 @@ h6,
 #features3-i P {
   text-align: center;
   font-family: 'Lora', serif;
+}
+#header3-1r .mbr-section-title,
+#header3-1r .mbr-section-subtitle {
+  text-align: center;
+}
+#msg-box4-1t H3 {
+  color: #f3c649;
 }
 #features4-t .card-subtitle {
   color: #bcbcbc;

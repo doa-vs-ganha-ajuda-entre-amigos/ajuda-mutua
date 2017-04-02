@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 63,
+    "uniqCompNum": 69,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -110,7 +110,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fundo-trans-doa-vc-ganha-251x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -124,62 +124,47 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "header1",
           "_styles": {
-            ".mbr-section-title, .lead p": {
-              "color": "#fff"
+            ".mbr-section-title": {
+              "color": "#ffffff"
+            },
+            ".mbr-section-lead": {
+              "color": "#f3c649"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box7",
-          "_anchor": "msg-box7-1",
+          "_name": "header5",
+          "_anchor": "header5-1w",
           "_params": {
-            "imageSize": "62",
-            "paddingTop": "4",
-            "paddingBottom": "2",
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@THEME_PATH@/components/_images/mountains.jpg",
-            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": "https://www.youtube.com/embed/vO5yet3Ot64?rel=0&amp;showinfo=0&autoplay=0&loop=0"
             },
-            "bgVideoRadio": false,
-            "overlay": true,
+            "bgVideoRadio": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "inverse": false,
+            "contentAlign": "left",
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "media": {
-            "image": {
-              "width": 1400,
-              "src": "@THEME_PATH@/components/_images/desert.jpg"
-            },
-            "video": {
-              "active": true,
-              "src": "https://youtu.be/WkNeJ1pLfS8",
-              "aspectratio": "16:9",
-              "autoplay": false,
-              "loop": false
-            },
-            "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box5",
-              "link": "",
-              "size": 250
-            }
-          },
-          "title": "Doa VS Ganha",
-          "text": "Juntos somos fortes...<br>Organizados vamos longe...<br>A persistência é o caminho do êxito...<br>O sucesso é uma consequência e não um objetivo...<br><br>Estas são nossas caracteristicas...",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-warning\" href=\"https://mobirise.com\">MORE</a>"
+          "title": "DOA VS GANHA",
+          "text": "EM TEMPOS DE CRISE, JUNTOS UNIDOS SEREMOS IMBATÍVEIS...",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD NOW</a>"
         },
         {
           "_styles": {
@@ -187,7 +172,8 @@
               "text-align": "center"
             },
             "SMALL": {
-              "color": "#b8312f"
+              "color": "#b8312f",
+              "font-size": "25px"
             }
           },
           "_tags": [
@@ -201,8 +187,8 @@
             "bgColor": "#f7da64",
             "showMeta": true
           },
-          "title": "QUER 9 REAIS DE PRESENTE?",
-          "meta": "LEIA AS INFORMAÇÕES ATENTAMENTE"
+          "title": "SISTEMA DE AJUDA ENTRE AMIGOS<br><br>6 CICLOS/FASES<br><br>INICIA DOANDO APENAS 10 REAIS<br><br>RECEBE NO FINAL FASE 6 <br><br>MAIS DE 2 MIL REAIS<br><br>QUER 9 REAIS DE PRESENTE PARA INICIAR?",
+          "meta": "<br>LEIA AS INFORMAÇÕES ATENTAMENTE"
         },
         {
           "_inherit": "header1",
@@ -243,7 +229,7 @@
             "showButtons": true
           },
           "title": "VAMOS TE DAR UMA AJUDINHA",
-          "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber os 2.200 reais certo?<br>Isso mesmo você vai completar com apenas 1 real apenas... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
+          "text": "Ao se cadastrar no botão abaixo vamos te ajudar a conseguir 9 reais para você completar com o valor da doação, que é 10 reais para entrar na lista e receber MAIS DE 2 MIL REAIS.<br>Isso mesmo você vai completar com apenas 1 real... <br>Clique em QUERO PARTICIPAR e obtenha mais informações...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>"
         },
         {
@@ -353,6 +339,94 @@
           "subtitle6": "Don't limit yourself to just one platform",
           "caption6": "Doa R$ 456,25<br>Ganha R$ 2.281,25<br>",
           "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1r",
+          "_params": {
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": false
+          },
+          "title": "COMO FUNCIONA?",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Serão 6 fases disponíveis para doação.</p><p>Inicalmente você &nbsp;irá doar 10,00 reais na primeira fase, e ganhará uma doação superior a 2.200,00 reais ao finalizar a fase de número 6.</p><p>Iremos te ajudar com 9,00 reais (por tempo limintado), pois conseguiremos este valor apenas para testar um Aplicativo.</p><p><br></p><p>Basicamente seguirá estes passos:</p><p><br></p><p>1° &nbsp;Passo: Você se cadastra neste site: http://www.doaeganha.vai.la</p><p>2° Passo: Passar por uma triagem de informações via Email e Site</p><p>3° Passo: Baixar Aplicativo para efetuar transferências de valores de forma segura</p><p>4° Passo: Doar para pessoa da vez, e entrar na lista de espera</p><p>5° Passo: Ajudar na divulgação do nosso grupo para que haja crescimento</p><p>6° Passo: Aguardar o recebimento das suas doações</p><p>7° Passo: Repetir o ciclo caso queira</p></blockquote>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box4",
+          "_anchor": "msg-box4-1t",
+          "_params": {
+            "imageSize": "66",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#7e9b9f",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://youtu.be/WkNeJ1pLfS8",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "VÍDEO EXPLICATIVO",
+          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#f3c649"
+            }
+          }
         },
         {
           "_styles": {
@@ -1220,7 +1294,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1400,7 +1474,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
@@ -1580,7 +1654,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">O QUE É AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#msg-box7-1\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"index.html#social-buttons4-d\">COMPARTILHE</a></li>"
         },
         {
           "_tags": [
