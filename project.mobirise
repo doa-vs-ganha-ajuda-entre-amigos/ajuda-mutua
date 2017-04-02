@@ -362,7 +362,7 @@
           "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
           "media5": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/do-4-600x379.png",
+              "src": "@PROJECT_PATH@/assets/images/do-6-600x379.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -725,7 +725,7 @@
             "bgColor": "#f7da64",
             "showMeta": false
           },
-          "title": "Junte-se a nós... É simples!",
+          "title": "Junte-se a nós... É simples!<br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\"><br></span><span style=\"color: inherit; font-size: 3rem; line-height: 1.1;\">É APENAS 10 REAIS...</span><br><br><span style=\"color: inherit; font-size: 3rem; line-height: 1.1; font-weight: normal;\"><i>Lembre-se iremos te ensinar a ganhar 9 reais...&nbsp;</i></span><br>",
           "meta": "By John Smith posted July 20, 2016"
         },
         {
