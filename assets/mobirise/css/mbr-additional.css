@@ -709,3 +709,11 @@ h6,
 #footer1-11 P {
   color: #ffffff;
 }
+#header3-1l .mbr-section-title,
+#header3-1l .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-1l H3 {
+  color: #ffffff;
+  font-size: 60px;
+}

@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "confirme-seu-cadastro",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 39,
+    "uniqCompNum": 59,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -1301,9 +1301,9 @@
         }
       ]
     },
-    "lista-fase-1": {
+    "confirme-seu-cadastro": {
       "settings": {
-        "title": "Lista fase 1",
+        "title": "Confirme seu Cadastro",
         "meta_descr": "Web Site Generator Description"
       },
       "components": [
@@ -1421,6 +1421,43 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff",
+              "font-size": "60px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-1l",
+          "_params": {
+            "paddingTop": "7",
+            "paddingBottom": "4",
+            "bgColor": "#e25041",
+            "showMeta": false
+          },
+          "title": "Falta mais um Passo...",
+          "meta": "By John Smith posted July 20, 2016"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content2",
+          "_anchor": "content2-1m",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<blockquote><p>Parabéns pelo cadastro.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Falta apenas um passo.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Confirme seu E-mail...</span></p><p><br></p><p>Enviamos uma mensagem de confirmação...</p><p> </p><p><br></p><p>Analise se esta na Caixa de Entrada e ou Caixa de Lixo Eletrônico, veja também Caixa de Promoções (no caso do Gmail).</p><p><br></p><p>O E-mail esta com o seguinte título: &nbsp;Doa VS Ganha - Confirme se E-mail</p></blockquote>"
         }
       ]
     }
