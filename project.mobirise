@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "compartilhar",
+    "currentPage": "nome-na-lista",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2444,7 +2444,7 @@
             "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false,
+            "showButtons": true,
             "showArrow": false
           },
           "media": {
@@ -2466,8 +2466,8 @@
             }
           },
           "title": "5° Passo<br>Seu nome na Lista",
-          "text": "Aqui é a parte mais gostosa de particiapar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Fim da triagem.<br><br>FIQUE TRANQUILO...<br><br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER LISTA ATUALIZADA</a>"
+          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br><br>FIQUE TRANQUILO...<br><br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/seja-bem-vindo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLTAR INICIO ETAPAS</a>"
         }
       ]
     }
