@@ -23,7 +23,8 @@
     },
     "versionFirst": "3.12.1",
     "uniqCompNum": 73,
-    "versionPublish": "3.12.1"
+    "versionPublish": "3.12.1",
+    "path": "@PROJECT_PATH@"
   },
   "pages": {
     "inicio": {
@@ -432,6 +433,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "color": "#000000"
+            }
+          },
           "_anchor": "msg-box4-1t",
           "_params": {
             "imageSize": "66",
@@ -474,12 +480,7 @@
           },
           "title": "VÍDEO EXPLICATIVO",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#000000"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
@@ -649,6 +650,17 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            },
+            "P": {
+              "font-size": "20px"
+            },
+            "H3": {
+              "font-size": "36px"
+            }
+          },
           "_anchor": "msg-box5-u",
           "_params": {
             "imageSize": 50,
@@ -695,18 +707,7 @@
           },
           "title": "COMO RECEBEREI MINHAS DOAÇÕES?",
           "text": "As doações serão depositadas diretamente para os beneficiados, utilizaremos um APLICATIVO voltado para este fim, onde é possivel efetuar transações a outros usuários em questão de segundos.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px"
-            },
-            "P": {
-              "font-size": "20px"
-            },
-            "H3": {
-              "font-size": "36px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">QUERO PARTICIPAR</a>"
         },
         {
           "_styles": {
@@ -1122,6 +1123,18 @@
             "Theme"
           ],
           "_name": "testimonials2",
+          "_styles": {
+            ".card-footer > small": {
+              "color": "#000000",
+              "font-size": "16px"
+            },
+            ".card-block P": {
+              "font-size": "20px"
+            },
+            ".card-footer > div": {
+              "font-size": "25px"
+            }
+          },
           "testimonial": [
             {
               "text": "<p>“A crise instaurou-se em nosso País todos sabemos, ondas gigantescas de desemprego, os impostos crescendo frequentemente, opções para empreender cada vez mais limitadas, uma coisa é certa. </p><p>A união de um povo que luta pelos mesmos objetivos, se organizados lutarem sem desanimar nas dificuldades, </p><p>estes sim farão a diferença seja em tempos de crise ou não...&nbsp;<span style=\"line-height: 2;\">Nosso Grupo de Ajuda Mútua entre Amigos nasceu justamente para isso.”&nbsp;</span><span style=\"line-height: 2;\">Junte-se a nós e faça a diferença também...</span></p>",
@@ -1147,6 +1160,9 @@
             "count": "1",
             "paddingTop": "0",
             "paddingBottom": "1",
+            "showImages": true,
+            "showName": true,
+            "showBio": true,
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/sky.jpg",
@@ -1156,25 +1172,10 @@
             "overlayOpacity": 0.2,
             "overlayColor": "#222",
             "showTitle": false,
-            "showSubtitle": false,
-            "showImages": true,
-            "showName": true,
-            "showBio": true
+            "showSubtitle": false
           },
           "title": "WHAT OUR FANTASTIC USERS SAY",
-          "subtitle": "Shape your future web project with sharp design and refine coded functions.",
-          "_styles": {
-            ".card-footer > small": {
-              "color": "#000000",
-              "font-size": "16px"
-            },
-            ".card-block P": {
-              "font-size": "20px"
-            },
-            ".card-footer > div": {
-              "font-size": "25px"
-            }
-          }
+          "subtitle": "Shape your future web project with sharp design and refine coded functions."
         },
         {
           "_inherit": "msg-box8",
@@ -1568,13 +1569,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1611,7 +1612,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fundo-trans-doa-vc-ganha-251x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1749,13 +1750,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1792,7 +1793,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fundo-trans-doa-vc-ganha-251x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1840,6 +1841,11 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            ".btn": {
+              "font-size": "25px"
+            }
+          },
           "_anchor": "msg-box4-1p",
           "_params": {
             "imageSize": "61",
@@ -1882,12 +1888,7 @@
           },
           "title": "Primeiros Passos",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;PROSSEGUIR &nbsp; &nbsp;&nbsp;</a>",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;PROSSEGUIR &nbsp; &nbsp;&nbsp;</a>"
         }
       ]
     }
