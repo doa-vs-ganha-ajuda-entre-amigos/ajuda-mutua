@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "nome-na-lista",
+    "currentPage": "fazer-doacao",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2072,7 +2072,7 @@
           },
           "title": "3° Passo<br>Fazer a doação",
           "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte:",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;WHATSAPP SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"chat.whatsapp.com/31zG1b9QBvN4TL4dKVrBxr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;WHATSAPP SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
       ]
     },
