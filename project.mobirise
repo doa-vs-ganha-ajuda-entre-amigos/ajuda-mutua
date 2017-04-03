@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "nome-na-lista",
+    "currentPage": "inicio",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,9 +22,10 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 91,
+    "uniqCompNum": 92,
     "versionPublish": "3.12.1",
-    "path": "@PROJECT_PATH@"
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "inicio": {
