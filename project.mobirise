@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "confirme-seu-cadastro",
+    "currentPage": "seja-bem-vindo",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1888,7 +1888,7 @@
           },
           "title": "Próximos Passos",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/baixar-aplicativo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR...</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/baixar-aplicativo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR...</a>"
         }
       ]
     },
