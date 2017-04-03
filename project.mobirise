@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "baixar-aplicativo",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1388,13 +1388,13 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-menu": {
-              "background": "#0e0e0e"
+              "background": "#000000"
             },
             ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
-              "background": "#202020!important"
+              "background": "#000000!important"
             },
             ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
-              "background": "#282828"
+              "background": "#000000"
             },
             ".bg-color.transparent .link": {
               "color": "#ffffff",
@@ -1515,7 +1515,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=MDbzJU8Lk_Y",
+              "src": "https://youtu.be/teG9IzCX400",
               "aspectratio": "16:9",
               "autoplay": "on",
               "loop": false
@@ -1527,7 +1527,7 @@
             }
           },
           "title": "BAIXAR APLICATIVO",
-          "text": "Para baixar o Aplicativo e ganhar os 6,00 reais de bonificação você deve se casdastrar por nosso código promocional, bastar seguir até o site pelo botão abaixo.",
+          "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, clique no botão abaixo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a>"
         }
       ]
