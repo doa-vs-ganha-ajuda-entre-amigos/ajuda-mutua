@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "compartilhar",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2251,8 +2251,8 @@
             }
           },
           "title": "4° Passo<br>COMPARTILHAR",
-          "text": "Compartilhe, vamos crescer juntos...<br>Lembrese a união faz a força<br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
+          "text": "Compartilhe, vamos crescer juntos...<br>Lembrese a união faz a força.<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUE</a>"
         },
         {
           "_styles": {
