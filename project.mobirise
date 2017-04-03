@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "baixar-aplicativo",
+    "currentPage": "compartilhar",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 73,
+    "uniqCompNum": 83,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1431,7 +1431,7 @@
           "logo": {
             "image": {
               "active": true,
-              "src": "@PROJECT_PATH@/assets/images/fundo-trans-doa-vc-ganha-251x128.png",
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
               "height": 128,
               "alt": "Mobirise",
               "link": "index.html",
@@ -1480,7 +1480,7 @@
               "color": "#28262b"
             },
             ".mbr-section-text": {
-              "color": "#565656"
+              "color": "#000000"
             }
           },
           "_tags": [
@@ -1489,7 +1489,7 @@
           "_name": "header6",
           "_anchor": "header6-x",
           "_params": {
-            "imageSize": "62",
+            "imageSize": "50",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
@@ -1526,9 +1526,9 @@
               "size": 250
             }
           },
-          "title": "BAIXAR APLICATIVO",
-          "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, clique no botão abaixo.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a>"
+          "title": "Baixar o Aplicativo",
+          "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, basta acessar o site oficial do Aplicativo, clique no botão abaixo.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/fazer-doacao\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
       ]
     },
@@ -1889,6 +1889,349 @@
           "title": "Primeiros Passos",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;PROSSEGUIR &nbsp; &nbsp;&nbsp;</a>"
+        }
+      ]
+    },
+    "fazer-doacao": {
+      "settings": {
+        "title": "Fazer a Doação",
+        "meta_descr": "Web Site Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-22",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-23",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-24",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "Fazer a doação",
+          "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GRUPO ADMIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTINUAR</a>"
+        }
+      ]
+    },
+    "compartilhar": {
+      "settings": {
+        "title": "Compartilhar",
+        "meta_descr": "Website Maker Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-25",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-26",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            },
+            ".lead P": {
+              "font-size": "22px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-28",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/facebook-saiba-como-publicar-posts-com-fundo-colorido-2000x1019.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "COMPARTILHE",
+          "text": "<p>COPIE ESSE TEXTO E COMPARTILHE...&nbsp;</p><p>Você gosta de tecnologias? </p><p>Teste um Aplicativo e ganhe uma boa grana. </p><p>Acesse: doaeganha.vai.la</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMPARTILHE</a>"
         }
       ]
     }
