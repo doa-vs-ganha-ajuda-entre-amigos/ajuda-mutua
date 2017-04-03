@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 90,
+    "uniqCompNum": 91,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -2251,51 +2251,42 @@
             }
           },
           "title": "4° Passo<br>COMPARTILHAR",
-          "text": "Compartilhe, vamos crescer juntos...<br>Lembrese a união faz a força.<br><br>",
+          "text": "Compartilhe nas Redes Sociais, vamos crescer juntos...<br>Lembre-se a união faz a força.<br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUE</a>"
         },
         {
+          "_inherit": "social-buttons1",
           "_styles": {
-            ".mbr-section-title, p": {
+            ".mbr-section-title, .btn-social": {
               "color": "#fff"
             },
-            ".lead P": {
-              "font-size": "22px"
-            },
-            ".btn": {
-              "font-size": "20px"
-            },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box8",
-          "_anchor": "msg-box8-28",
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2i",
           "_params": {
-            "paddingTop": "4",
-            "paddingBottom": "2",
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
             "parallax": true,
-            "bgImageRadio": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/facebook-saiba-como-publicar-posts-com-fundo-colorido-2000x1019.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#222",
-            "showTitle": true,
-            "showText": true,
-            "showButton": true
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
           },
-          "title": "COMPARTILHE NO BOTÃO VERMELHO ACIMA NO MENU...<br>Ou clique abaixo em continuar,<br>para o último passo.",
-          "text": "",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/nome-na-lista\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>   "
+          "text": "COMPARTILHE"
         }
       ]
     },

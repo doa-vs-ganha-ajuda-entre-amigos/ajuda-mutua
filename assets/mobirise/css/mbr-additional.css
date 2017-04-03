@@ -1022,18 +1022,12 @@ h6,
 #header6-2e .mbr-section-text {
   color: #000000;
 }
-#msg-box8-28 .mbr-section-title,
-#msg-box8-28 p {
+#social-buttons3-2i .mbr-section-title,
+#social-buttons3-2i .btn-social {
   color: #fff;
 }
-#msg-box8-28 .lead P {
-  font-size: 22px;
-}
-#msg-box8-28 .btn {
-  font-size: 20px;
-}
-#msg-box8-28 .mbr-section-title {
-  font-size: 46px;
+#social-buttons3-2i .mbr-section-title {
+  font-size: 36px;
 }
 #ext_menu-2b .hide-buttons .nav-btn {
   display: none !important;
