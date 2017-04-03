@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "compartilhar",
+    "currentPage": "confirme-seu-cadastro",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1689,7 +1689,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Parabéns pelo cadastro.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Falta apenas um passo.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Confirme seu E-mail...</span></p><p><br></p><p>Enviamos uma mensagem de confirmação...</p><p> </p><p><br></p><p>Analise se esta na Caixa de Entrada e ou Caixa de Lixo Eletrônico, veja também Caixa de Promoções (no caso do Gmail).</p><p><br></p><p>O E-mail esta com o seguinte título: &nbsp;Doa VS Ganha - Confirme se E-mail</p></blockquote>"
+          "text": "<blockquote><p>Parabéns pelo cadastro.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Falta apenas um passo.&nbsp;</span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\"><br></span></p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Confirme seu E-mail...</span></p><p><br></p><p>Enviamos uma mensagem de confirmação...</p><p> </p><p><br></p><p>Analise se esta na Caixa de Entrada e ou Caixa de Lixo Eletrônico, veja também Caixa de Promoções (no caso do Gmail).</p><p><br></p><p>O E-mail esta com o seguinte título: &nbsp;Doa VS Ganha - Confirme seu E-mail</p></blockquote>"
         }
       ]
     },
