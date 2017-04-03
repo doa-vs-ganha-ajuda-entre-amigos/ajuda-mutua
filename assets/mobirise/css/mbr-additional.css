@@ -868,8 +868,11 @@ h6,
   color: #ffffff;
   font-size: 14px;
 }
-#msg-box4-1p .btn {
-  font-size: 25px;
+#header6-2g .mbr-section-title {
+  color: #28262b;
+}
+#header6-2g .mbr-section-text {
+  color: #000000;
 }
 #ext_menu-22 .hide-buttons .nav-btn {
   display: none !important;
@@ -1014,6 +1017,12 @@ h6,
   color: #ffffff;
   font-size: 14px;
 }
+#header6-2e .mbr-section-title {
+  color: #28262b;
+}
+#header6-2e .mbr-section-text {
+  color: #000000;
+}
 #msg-box8-28 .mbr-section-title,
 #msg-box8-28 p {
   color: #fff;
@@ -1095,7 +1104,9 @@ h6,
   color: #ffffff;
   font-size: 14px;
 }
-#header1-2d .mbr-section-title {
-  font-size: 48px;
-  color: #b8312f;
+#header6-2f .mbr-section-title {
+  color: #28262b;
+}
+#header6-2f .mbr-section-text {
+  color: #000000;
 }

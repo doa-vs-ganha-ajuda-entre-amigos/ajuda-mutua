@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "seja-bem-vindo",
+    "currentPage": "nome-na-lista",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 86,
+    "uniqCompNum": 89,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@"
   },
@@ -1526,7 +1526,7 @@
               "size": 250
             }
           },
-          "title": "Baixar o Aplicativo",
+          "title": "2° Passo<br>Baixar o Aplicativo",
           "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, basta acessar o site oficial do Aplicativo, clique no botão abaixo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/fazer-doacao\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
@@ -1836,42 +1836,44 @@
           "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
         },
         {
-          "_inherit": "msg-box5",
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "msg-box4",
-          "_styles": {
-            ".btn": {
-              "font-size": "25px"
-            }
-          },
-          "_anchor": "msg-box4-1p",
+          "_name": "header6",
+          "_anchor": "header6-2g",
           "_params": {
-            "imageSize": "61",
-            "paddingTop": "3",
-            "paddingBottom": "3",
+            "imageSize": "50",
             "parallax": true,
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
-            "bgColorRadio": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#fff",
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
             "inverse": true,
             "showTitle": true,
-            "showText": false,
-            "showButtons": true
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false
           },
           "media": {
             "image": {
               "width": 1400,
-              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg"
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
             },
             "video": {
               "active": true,
@@ -1881,14 +1883,14 @@
               "loop": false
             },
             "iconFont": {
-              "class": "mbr-iconfont mbr-iconfont-msg-box4",
+              "class": "mbr-iconfont mbr-iconfont-header2",
               "link": "",
               "size": 250
             }
           },
-          "title": "4 passos e você estara conosco...<br>",
-          "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/baixar-aplicativo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR...</a>"
+          "title": "Mais 4 Passos",
+          "text": "e você estará conosco...<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/baixar-aplicativo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUE...</a>"
         }
       ]
     },
@@ -2068,7 +2070,7 @@
               "size": 250
             }
           },
-          "title": "Fazer a doação",
+          "title": "3° Passo<br>Fazer a doação",
           "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte:",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;WHATSAPP SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
@@ -2195,6 +2197,63 @@
             "overlayColor": "#444444"
           },
           "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
+        },
+        {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header6",
+          "_anchor": "header6-2e",
+          "_params": {
+            "imageSize": "50",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": true
+          },
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "4° Passo<br>COMPARTILHAR",
+          "text": "Compartilhe, vamos crescer juntos...<br>Lembrese a união faz a força<br><br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTINUE</a>"
         },
         {
           "_styles": {
@@ -2364,39 +2423,61 @@
           "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
         },
         {
+          "_inherit": "header2",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#28262b"
+            },
+            ".mbr-section-text": {
+              "color": "#000000"
+            }
+          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header1",
-          "_anchor": "header1-2d",
+          "_name": "header6",
+          "_anchor": "header6-2f",
           "_params": {
+            "imageSize": "50",
             "parallax": true,
             "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#a07e49",
+            "bgImage": "@THEME_PATH@/components/_images/gallery/room-laptop.jpg",
+            "bgColor": "#2e2e2e",
             "bgColorRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": false,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#000",
-            "contentAlign": "center",
+            "overlay": true,
+            "overlayOpacity": "0.9",
+            "overlayColor": "#ccc",
+            "inverse": true,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": false,
+            "showArrow": false
           },
-          "title": "AGUARDE ATUALIZAÇÃO",
-          "text": "Feito a doação aguarde alguns instantes para próxima atualização.<br>Seu nome entrará na fila, na ordem de horário de pagamento, não se preoculpe ninguém passará na sua frente, nosso controle de cadastro é muito rigoroso e vital para nosso grupo, queremos dedicar total transparência.<br><br>FIQUE TRANQUILO...<br><br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
-          "_styles": {
-            ".mbr-section-title": {
-              "font-size": "48px",
-              "color": "#b8312f"
+          "media": {
+            "image": {
+              "width": 1400,
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg"
+            },
+            "video": {
+              "active": true,
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 250
             }
-          }
+          },
+          "title": "5° Passo<br>Seu nome na Lista",
+          "text": "Aqui é a parte mais gostosa de particiapar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Fim da triagem.<br><br>FIQUE TRANQUILO...<br><br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">VER LISTA ATUALIZADA</a>"
         }
       ]
     }
