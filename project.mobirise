@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "seja-bem-vindo",
+    "currentPage": "compartilhar",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1886,9 +1886,9 @@
               "size": 250
             }
           },
-          "title": "Primeiros Passos",
+          "title": "Próximos Passos",
           "text": "<p>Online video and Youtube particularly is now more popular than cable television.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">&nbsp; &nbsp; &nbsp;PROSSEGUIR &nbsp; &nbsp;&nbsp;</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/baixar-aplicativo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR...</a>"
         }
       ]
     },
@@ -2069,8 +2069,8 @@
             }
           },
           "title": "Fazer a doação",
-          "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">GRUPO ADMIN</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">CONTINUAR</a>"
+          "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte:",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;WHATSAPP SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
       ]
     },
@@ -2203,6 +2203,12 @@
             },
             ".lead P": {
               "font-size": "22px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -2212,7 +2218,7 @@
           "_anchor": "msg-box8-28",
           "_params": {
             "paddingTop": "4",
-            "paddingBottom": "4",
+            "paddingBottom": "2",
             "parallax": true,
             "bgImageRadio": true,
             "bgImage": "@PROJECT_PATH@/assets/images/facebook-saiba-como-publicar-posts-com-fundo-colorido-2000x1019.jpg",
@@ -2229,9 +2235,9 @@
             "showText": true,
             "showButton": true
           },
-          "title": "COMPARTILHE",
-          "text": "<p>COPIE ESSE TEXTO E COMPARTILHE...&nbsp;</p><p>Você gosta de tecnologias? </p><p>Teste um Aplicativo e ganhe uma boa grana. </p><p>Acesse: doaeganha.vai.la</p>",
-          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">COMPARTILHE</a>"
+          "title": "COMPARTILHE NO BOTÃO VERMELHO ACIMA NO MENU...<br>Ou clique abaixo em continuar,<br>para o último passo.",
+          "text": "",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/nome-na-lista\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>   "
         }
       ]
     },

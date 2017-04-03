@@ -1021,6 +1021,12 @@ h6,
 #msg-box8-28 .lead P {
   font-size: 22px;
 }
+#msg-box8-28 .btn {
+  font-size: 20px;
+}
+#msg-box8-28 .mbr-section-title {
+  font-size: 46px;
+}
 #ext_menu-2b .hide-buttons .nav-btn {
   display: none !important;
 }
