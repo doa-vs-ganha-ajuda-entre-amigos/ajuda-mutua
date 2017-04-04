@@ -714,11 +714,29 @@ h6,
   color: #ffffff;
   font-size: 14px;
 }
+#header6-2k .mbr-section-title {
+  color: #28262b;
+}
+#header6-2k .mbr-section-text {
+  color: #000000;
+}
 #header6-x .mbr-section-title {
   color: #28262b;
 }
 #header6-x .mbr-section-text {
   color: #000000;
+}
+#header6-2m .mbr-section-title {
+  color: #28262b;
+}
+#header6-2m .mbr-section-text {
+  color: #565656;
+}
+#header6-2n .mbr-section-title {
+  color: #28262b;
+}
+#header6-2n .mbr-section-text {
+  color: #565656;
 }
 #ext_menu-10 .hide-buttons .nav-btn {
   display: none !important;
