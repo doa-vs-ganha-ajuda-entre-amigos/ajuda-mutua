@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 96,
+    "uniqCompNum": 97,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -1587,6 +1587,30 @@
           "title": "2° Passo<br>Baixar o Aplicativo",
           "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, basta acessar o site oficial do Aplicativo, clique no botão abaixo. (Mais vídeos abaixo)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a> "
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "font-size": "20px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2o",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "NOSSO CÓDIGO PROMOCIONAL",
+          "meta": "o2xk1sc7"
         },
         {
           "_inherit": "header2",
