@@ -1528,7 +1528,7 @@
             }
           },
           "title": "Após ter conhecido um pouco do App...",
-          "text": "Prossiga abaixo e entenda como baixar-lo e outras informações:<br>e importante acompanhar cada vídeo abaixo...",
+          "text": "Prossiga abaixo e entenda como baixar-lo e outras informações:<br>È muito importante acompanhar cada vídeo abaixo... Depois de acompahar todos os vídeos e baixar o App, o botão continuar esta lá embaixo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1585,7 +1585,7 @@
             }
           },
           "title": "2° Passo<br>Baixar o Aplicativo",
-          "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, basta acessar o site oficial do Aplicativo, clique no botão abaixo.",
+          "text": "Para baixar o Aplicativo e ganhar os 9,00 reais de bonificação você deve se casdastrar por nosso código promocional, basta acessar o site oficial do Aplicativo, clique no botão abaixo. (Mais vídeos abaixo)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://www.celcoin.com.br/convite/o2xk1sc7\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">ACESSAR SITE</a> "
         },
         {
@@ -1642,7 +1642,7 @@
             }
           },
           "title": "Baixou o Aplicativo?<br>1° Passo para receber sua bonificação...",
-          "text": "Muito importante agora os primeiros passos... Como ganhar os 9,00 reais para então participar do nosso projeto. Neste vídeo é mostrado o campo interno e as funcionalidades do Aplicativo... Após ter acompanhado prossiga",
+          "text": "Muito importante agora os primeiros passos... Como ganhar os 9,00 reais para então participar do nosso projeto. Neste vídeo é mostrado o campo interno e as funcionalidades do Aplicativo... Após ter acompanhado prossiga. (Mais vídeos abaixo)",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
@@ -1687,7 +1687,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/watch?v=aRBSs25fIqQ",
+              "src": "https://www.youtube.com/watch?v=b0MotQz6aVE",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
@@ -2230,9 +2230,9 @@
             },
             "video": {
               "active": true,
-              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "src": "https://www.youtube.com/watch?v=wB87js-fRuk",
               "aspectratio": "16:9",
-              "autoplay": false,
+              "autoplay": "on",
               "loop": false
             },
             "iconFont": {
@@ -2243,7 +2243,7 @@
           },
           "title": "3° Passo<div>Fazer a doação</div>",
           "text": "Neste passo você deve ter em mãos os dados da pessoa que ira receber a sua doação, para isso entre em contato com um administrador no Grupo Whatsapp Suporte:<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://chat.whatsapp.com/invite/31zG1b9QBvN4TL4dKVrBxr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/compartilhar\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success-outline btn-success\" href=\"https://chat.whatsapp.com/invite/31zG1b9QBvN4TL4dKVrBxr\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"socicon socicon-whatsapp mbr-iconfont mbr-iconfont-btn\"></span>&nbsp;SUPORTE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/nome-na-lista\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CONTINUAR</a>"
         }
       ]
     },
@@ -2637,8 +2637,8 @@
               "size": 250
             }
           },
-          "title": "5° Passo<br>Seu nome na Lista",
-          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br><br>FIQUE TRANQUILO...<br><br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>",
+          "title": "4° Passo &nbsp;Final<br>Seu nome na Lista",
+          "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br><br>FIQUE TRANQUILO...<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/seja-bem-vindo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLTAR INICIO ETAPAS</a>"
         }
       ]
