@@ -2819,6 +2819,9 @@
             },
             "SMALL": {
               "color": "#000000"
+            },
+            "H3": {
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -2845,7 +2848,8 @@
               "text-align": "right"
             },
             "H3": {
-              "text-align": "right"
+              "text-align": "right",
+              "font-size": "46px"
             }
           },
           "_tags": [
@@ -2869,6 +2873,9 @@
             },
             "SMALL": {
               "color": "#000000"
+            },
+            "H3": {
+              "font-size": "46px"
             }
           },
           "_tags": [

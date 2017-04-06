@@ -1211,6 +1211,9 @@ h6,
 #header3-2s SMALL {
   color: #000000;
 }
+#header3-2s H3 {
+  font-size: 46px;
+}
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
   text-align: center;
@@ -1221,6 +1224,7 @@ h6,
 }
 #header3-2t H3 {
   text-align: right;
+  font-size: 46px;
 }
 #header3-2u .mbr-section-title,
 #header3-2u .mbr-section-subtitle {
@@ -1228,4 +1232,7 @@ h6,
 }
 #header3-2u SMALL {
   color: #000000;
+}
+#header3-2u H3 {
+  font-size: 46px;
 }
