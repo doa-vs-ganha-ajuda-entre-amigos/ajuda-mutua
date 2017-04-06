@@ -2821,7 +2821,7 @@
               "color": "#000000"
             },
             "H3": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#b8312f"
             }
           },
@@ -2850,7 +2850,7 @@
             },
             "H3": {
               "text-align": "right",
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#b8312f"
             }
           },
@@ -2877,7 +2877,7 @@
               "color": "#000000"
             },
             "H3": {
-              "font-size": "46px",
+              "font-size": "36px",
               "color": "#b8312f"
             }
           },
