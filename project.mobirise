@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "fase-1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -2825,7 +2825,7 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2836,7 +2836,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "showMeta": true
           },
           "title": "PRÓXIMO A RECEBER",
@@ -2867,7 +2867,7 @@
             "H3": {
               "text-align": "right",
               "font-size": "36px",
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2878,7 +2878,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "showMeta": true
           },
           "title": "PRÓXIMOS A DOAR",
@@ -2912,7 +2912,7 @@
             },
             "H3": {
               "font-size": "36px",
-              "color": "#b8312f"
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -2923,7 +2923,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#3d8eb9",
             "showMeta": true
           },
           "title": "LISTA DE ESPERA",
