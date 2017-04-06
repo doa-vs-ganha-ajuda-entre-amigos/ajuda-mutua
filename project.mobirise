@@ -2798,7 +2798,8 @@
               "color": "#000000"
             },
             "H3": {
-              "font-size": "60px"
+              "font-size": "60px",
+              "color": "#f28281"
             }
           },
           "_tags": [
@@ -2836,7 +2837,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#f28281",
             "showMeta": true
           },
           "title": "PRÓXIMO A RECEBER",
@@ -2878,7 +2879,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#f28281",
             "showMeta": true
           },
           "title": "PRÓXIMOS A DOAR",
@@ -2923,7 +2924,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#3d8eb9",
+            "bgColor": "#f28281",
             "showMeta": true
           },
           "title": "LISTA DE ESPERA",
