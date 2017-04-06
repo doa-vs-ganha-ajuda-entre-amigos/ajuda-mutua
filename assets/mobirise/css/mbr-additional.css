@@ -1213,6 +1213,7 @@ h6,
 }
 #header3-2s H3 {
   font-size: 46px;
+  color: #b8312f;
 }
 #header3-2t .mbr-section-title,
 #header3-2t .mbr-section-subtitle {
@@ -1225,6 +1226,7 @@ h6,
 #header3-2t H3 {
   text-align: right;
   font-size: 46px;
+  color: #b8312f;
 }
 #header3-2u .mbr-section-title,
 #header3-2u .mbr-section-subtitle {
@@ -1235,4 +1237,5 @@ h6,
 }
 #header3-2u H3 {
   font-size: 46px;
+  color: #b8312f;
 }
