@@ -1242,3 +1242,10 @@ h6,
   font-size: 36px;
   color: #b8312f;
 }
+#header3-2z .mbr-section-title,
+#header3-2z .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-2z H3 {
+  color: #b8312f;
+}
