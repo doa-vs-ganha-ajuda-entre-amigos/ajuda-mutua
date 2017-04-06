@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "fase-1",
+    "currentPage": "baixar-aplicativo",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1594,8 +1594,11 @@
               "text-align": "center"
             },
             "SMALL": {
-              "color": "#000000",
-              "font-size": "20px"
+              "color": "#f7da64",
+              "font-size": "30px"
+            },
+            "H3": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1606,7 +1609,7 @@
           "_params": {
             "paddingTop": 1,
             "paddingBottom": 1,
-            "bgColor": "#fff",
+            "bgColor": "#b8312f",
             "showMeta": true
           },
           "title": "NOSSO CÓDIGO PROMOCIONAL",
