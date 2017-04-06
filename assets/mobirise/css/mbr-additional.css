@@ -1231,6 +1231,9 @@ h6,
   font-size: 36px;
   color: #b8312f;
 }
+#content2-2v BLOCKQUOTE {
+  color: #000000;
+}
 #header3-2u .mbr-section-title,
 #header3-2u .mbr-section-subtitle {
   text-align: center;
