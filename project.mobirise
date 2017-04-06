@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "fase-1",
+    "currentPage": "baixar-aplicativo",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -1528,7 +1528,7 @@
             }
           },
           "title": "Após ter conhecido um pouco do App...",
-          "text": "Prossiga abaixo e entenda como baixar-lo e outras informações:<br>È muito importante acompanhar cada vídeo abaixo... Depois de acompahar todos os vídeos e baixar o App, o botão continuar esta lá embaixo.",
+          "text": "Prossiga abaixo e entenda como baixar-lo e outras informações:<br>É muito importante acompanhar cada vídeo, são 4 vídeos abaixo... Depois de acompahar todos os vídeos e baixar o App, o botão continuar para prosseguir esta lá embaixo.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-black-outline btn-black\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
