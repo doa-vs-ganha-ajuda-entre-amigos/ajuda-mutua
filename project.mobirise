@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Doa-VS-Ganha",
-    "currentPage": "inicio",
+    "currentPage": "fase-1",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 97,
+    "uniqCompNum": 103,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -2664,6 +2664,226 @@
           "title": "4° Passo &nbsp;Final<br>Seu nome na Lista",
           "text": "Aqui é a parte mais gostosa de participar...<br>Acompanhe seu nome na lista subindo a cada nova doação feita para um membro... Finaliza aqui a triagem.<br><br>FIQUE TRANQUILO...<br>VOCÊ SERÁ INFORMADO POR EMAIL SOBRE ATUALIZAÇÃO.<br>DO SEU NOME NA LISTA...",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-danger-outline btn-danger\" href=\"https://doa-vs-ganha-ajuda-entre-amigos.github.io/ajuda-mutua/seja-bem-vindo\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">VOLTAR INICIO ETAPAS</a>"
+        }
+      ]
+    },
+    "fase-1": {
+      "settings": {
+        "title": "Fase-1",
+        "meta_descr": "Website Builder Description"
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_tags": [
+            "Theme"
+          ],
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#000000!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#000000"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".btn": {
+              "font-size": "15px"
+            }
+          },
+          "_name": "ext.menu",
+          "_anchor": "ext_menu-2p",
+          "_params": {
+            "bgColor": "#000000",
+            "fontSize": 0.75,
+            "fontName": {},
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": false,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/fundo-trans-320x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "index.html",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"inicio\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">Início</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-1r\">COMO FUNCIONA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-l\">AJUDA MÚTUA?</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"inicio#header3-p\">AJUDA MÚTUA É CRIME?</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning-outline btn-warning\" href=\"http://www.35.kmitd1.com/w/leXej7Ie1cWL4b6LXecc64f864\" target=\"_blank\">QUERO PARTICIPAR</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-danger\" href=\"inicio#social-buttons3-1z\">COMPARTILHE</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "footer1",
+          "_styles": {
+            "P": {
+              "color": "#ffffff",
+              "font-size": "14px"
+            }
+          },
+          "_anchor": "footer1-2q",
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#444444"
+          },
+          "text": "Copyright (c) 2017 Direitos Reservados DOA VS GANHA."
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2r",
+          "_params": {
+            "paddingTop": "5",
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Lista 1",
+          "meta": "Atualizada"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2s",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PRÓXIMO A RECEBER",
+          "meta": "ÚLTIMA ATUALIZAÇÃO\t06/04/2017 14:42<br>\t<br>1\tSIST1728 - 094981301728<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000",
+              "text-align": "right"
+            },
+            "H3": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2t",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "PRÓXIMOS A DOAR<div><br></div>",
+          "meta": "ÚLTIMA ATUALIZAÇÃO\t06/04/2017 14:42<br>\t<br>1\tROBS-2320<br>2\tHUMB-4555<br>3\tJACK-0366<br>4\tMARC-1444<br>5\tEDIN-2109<br>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "SMALL": {
+              "color": "#000000"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2u",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "LISTA DE ESPERA FASE 1",
+          "meta": "ÚLTIMA ATUALIZAÇÃO\t06/04/2017 14:42<br>\t<br>1\tPAUL-0058<br>2\tFLAV-0122<br>3\tMICH-0455<br>4\tESTE-0011<br>5\tEDUA-2109<br>6\tROBS-2321<br>7\tFERN-114<br>8\tCARL-4596<br>9\tANTO-4599<br>10\tBRUN-1993<br>11\tCESA-4000<br>12\tMATE-4588<br>13\tRAFA-3397<br>14\tCLEB-4777<br>15\tJONA-3644<br>16\tPAUL-0059<br>17\tFLAV-0123<br>18\tMICH-0456<br>19\tESTE-0012<br>20\tEDUA-2110<br>21\tROBS-2322<br>22\tFERN-115<br>23\tCARL-4597<br>24\tANTO-4600<br>25\tBRUN-1994<br>26\tCESA-4001<br>27\tMATE-4589<br>28\tRAFA-3398<br>29\tCLEB-4778<br>30\tJONA-3645<br>31\tPAUL-0060<br>32\tFLAV-0124<br>33\tMICH-0457<br>34\tESTE-0013<br>35\tEDUA-2111<br>36\tROBS-2323<br>37\tFERN-116<br>38\tCARL-4598<br>39\tANTO-4601<br>40\tBRUN-1995<br>41\tCESA-4002<br>42\tMATE-4590<br>43\tRAFA-3399<br>44\tCLEB-4779<br>45\tJONA-3646<br>46\tPAUL-0061<br>47\tFLAV-0125<br>48\tMICH-0458<br>49\tESTE-0014<br>50\tEDUA-2112<br>51\tROBS-2324<br>52\tFERN-117<br>53\tCARL-4599<br>54\tANTO-4602<br>55\tBRUN-1996<br>56\tCESA-4003<br>57\tMATE-4591<br>58\tRAFA-3400<br>59\tCLEB-4780<br>60\tJONA-3647<br>61\tPAUL-0062<br>62\tFLAV-0126<br>63\tMICH-0459<br>64\tESTE-0015<br>65\tEDUA-2113<br>66\tROBS-2325<br>67\tFERN-118<br>68\tCARL-4600<br>69\tANTO-4603<br>70\tBRUN-1997<br>71\tCESA-4004<br>72\tMATE-4592<br>73\tRAFA-3401<br>74\tCLEB-4781<br>75\tJONA-3648<br>76\tPAUL-0063<br>77\tFLAV-0127<br>78\tMICH-0460<br>79\tESTE-0016<br>80\tEDUA-2114<br>81\tROBS-2326<br>82\tFERN-119<br>83\tCARL-4601<br>84\tANTO-4604<br>85\tBRUN-1998<br>86\tCESA-4005<br>87\tMATE-4593<br>88\tRAFA-3402<br>89\tCLEB-4782<br>90\tJONA-3649<br>91\tPAUL-0064<br>92\tFLAV-0128<br>93\tMICH-0461<br>94\tESTE-0017<br>95\tEDUA-2115<br>96\tROBS-2327<br>97\tFERN-120<br>98\tCARL-4602<br>99\tANTO-4605<br>100\tBRUN-1999<br>101\tCESA-4006<br>102\tMATE-4594<br>103\tRAFA-3403<br>104\tCLEB-4783<br>105\tJONA-3650<br>106\tPAUL-0065<br>107\tFLAV-0129<br>108\tMICH-0462<br>109\tESTE-0018<br>110\tEDUA-2116<br>111\tROBS-2328<br>112\tFERN-121<br>113\tCARL-4603<br>114\tANTO-4606<br>115\tBRUN-2000<br>116\tCESA-4007<br>117\tMATE-4595<br>118\tRAFA-3404<br>119\tCLEB-4784<br>120\tJONA-3651<br>121\tPAUL-0066<br>122\tFLAV-0130<br>123\tMICH-0463<br>124\tESTE-0019<br>125\tEDUA-2117<br>126\tROBS-2329<br>127\tFERN-122<br>128\tCARL-4604<br>129\tANTO-4607<br>130\tBRUN-2001<br>131\tCESA-4008<br>132\tMATE-4596<br>133\tRAFA-3405<br>134\tCLEB-4785<br>135\tJONA-3652<br>136\tPAUL-0067<br>137\tFLAV-0131<br>138\tMICH-0464<br>139\tESTE-0020<br>140\tEDUA-2118<br>141\tROBS-2330<br>142\tFERN-123<br>143\tCARL-4605<br>144\tANTO-4608<br>145\tBRUN-2002<br>146\tCESA-4009<br>147\tMATE-4597<br>148\tRAFA-3406<br>149\tCLEB-4786<br>150\tJONA-3653"
         }
       ]
     }
