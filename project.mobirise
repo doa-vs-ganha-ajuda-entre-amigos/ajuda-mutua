@@ -244,7 +244,7 @@
           "_name": "header3",
           "_anchor": "header3-20",
           "_params": {
-            "paddingTop": 1,
+            "paddingTop": "4",
             "paddingBottom": 1,
             "bgColor": "#e25041",
             "showMeta": true
@@ -367,7 +367,7 @@
             },
             "video": {
               "active": true,
-              "src": "https://youtu.be/WkNeJ1pLfS8",
+              "src": "https://youtu.be/rPfh28afgco",
               "aspectratio": "16:9",
               "autoplay": false,
               "loop": false
