@@ -6,7 +6,7 @@
       "name": "mobirise3",
       "title": "Mobirise 3",
       "styling": {
-        "primaryColor": "#b8312f",
+        "primaryColor": "#ffffff",
         "secondaryColor": "#bfcecb",
         "successColor": "#90a878",
         "infoColor": "#7e9b9f",
@@ -432,7 +432,7 @@
             }
           },
           "title": "Publicidade é a alma",
-          "text": "Nosso projeto é limitado a &nbsp;inicialmente apenas 5 mil membros. <br>Até alcançarmos nossa meta inicial, foaremos na publicidade online;<br>Nosso pricipal meio de publicidade é nossa <a href=\"https://www.facebook.com/Doa-VS-Ganha-1911819389099756\" target=\"_blank\">Página no Facebook</a>, o valor a ser investido é doado pelos próprios membros como visto no vídeo acima após cada mudança de nível;<br>.<br>50% &nbsp;será investido em campanhas CURTIR PÁGINA<br>50% será investido em campanhas VIEWS POSTAGENS<br>",
+          "text": "Nosso projeto é limitado inicialmente, apenas 5 mil membros. <br>Até alcançarmos nossa meta inicial, faremos publicidade online;<br>Nosso principal meio de publicidade é nossa <a href=\"https://www.facebook.com/Doa-VS-Ganha-1911819389099756\" target=\"_blank\">Página no Facebook</a>, o valor a ser investido é doado pelos próprios membros como visto no vídeo acima após cada mudança de nível;<br>.<br>50% &nbsp;será investido em campanhas CURTIR PÁGINA<br>50% será investido em campanhas VIEWS POSTAGENS<br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_styles": {
             "P": {
