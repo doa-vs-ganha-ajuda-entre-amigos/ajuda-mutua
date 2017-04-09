@@ -88,7 +88,7 @@
               "color": "@primaryColor"
             },
             ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
-              "color": "#b8312f!important"
+              "color": "#ffffff!important"
             },
             ".btn": {
               "font-size": "15px"
@@ -325,7 +325,7 @@
             "paddingBottom": 1,
             "bgColor": "#fff"
           },
-          "text": "<blockquote><p>Serão 6 fases disponíveis para você receber doações.</p><p>Inicalmente você &nbsp;irá doar 10,00 reais e entrara na fila na primeira fase, e ganhará uma doação superior a 8.000,00 reais ao finalizar a fase de número 6.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Inicialmente vamos te ajudar com 9,00 reais para que você faça sua primeira doação no valor de 10,00 reais (esse valor que iremos te ajudar é por tempo limitado), pois conseguiremos este valor ao indicar um Aplicativo para você testar. Um App fantástico.</span></p><p><br></p><p>Basicamente seguirá estes passos:</p><p><br></p><p>1° &nbsp;Passo: Você se cadastra nos botões QUERO PARTICIPAR</p><p>2° Passo: Você irá passar por uma triagem de informações via Email e Site e Grupos Whatsapp</p><p>3° Passo: Baixar um Aplicativo para receber as suas doações diretamente ao você</p><p>4° Passo: Doar 10 REAIS para pessoa da vez, e entrar na lista de espera para receber doações também</p><p>5° Passo: Verificar periódicamente e confirmar o recebimento das suas doações</p><p>6° Passo: Repetir o ciclo quantas vezes quizer</p></blockquote>"
+          "text": "<blockquote><p>Serão 6 fases disponíveis para você receber doações.</p><p>Inicalmente você &nbsp;irá doar 10,00 reais e entrara na fila na primeira fase, e ganhará uma doação superior a 8.000,00 reais ao finalizar a fase de número 6.&nbsp;<span style=\"font-size: 1.07rem; line-height: 1.5;\">Inicialmente vamos te ajudar com 9,00 reais para que você faça sua primeira doação no valor de 10,00 reais (esse valor que iremos te ajudar é por tempo limitado), pois conseguiremos este valor ao indicar um Aplicativo para você testar. Um App fantástico.</span></p><p><br></p><p>Basicamente seguirá estes passos:</p><p><br></p><p>1° &nbsp;Passo: Você se cadastra nos botões QUERO PARTICIPAR;</p><p>2° Passo: Você irá passar por uma triagem de informações via Email e Site e Grupos Whatsapp;</p><p>3° Passo: Baixar um Aplicativo para receber as suas doações diretamente a você;</p><p>4° Passo: Doar 10 REAIS para pessoa da vez, e entrar na lista de espera para receber doações também;</p><p>5° Passo: Verificar periódicamente e confirmar o recebimento das suas doações;</p><p>6° Passo: Repetir o ciclo quantas vezes quizer;</p></blockquote>"
         },
         {
           "_inherit": "msg-box5",
@@ -387,6 +387,17 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "P": {
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
+              "font-size": "18px"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
           "_anchor": "msg-box5-4l",
           "_params": {
             "imageSize": "45",
@@ -433,18 +444,7 @@
           },
           "title": "Publicidade é a alma",
           "text": "Nosso projeto é limitado inicialmente, apenas 5 mil membros. <br>Até alcançarmos nossa meta inicial, faremos publicidade online;<br>Nosso principal meio de publicidade é nossa <a href=\"https://www.facebook.com/Doa-VS-Ganha-1911819389099756\" target=\"_blank\">Página no Facebook</a>, o valor a ser investido é doado pelos próprios membros como visto no vídeo acima após cada mudança de nível;<br><br>50% &nbsp;será investido em campanhas CURTIR PÁGINA<br>50% será investido em campanhas VIEWS POSTAGENS<br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
-          "_styles": {
-            "P": {
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700",
-              "font-size": "18px"
-            },
-            "H3": {
-              "color": "#ffffff"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         },
         {
           "_styles": {
